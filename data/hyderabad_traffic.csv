@@ -1,0 +1,769 @@
+datetime,city,junction_id,junction_name,vehicle_count
+2026-03-02 00:00:00.900615,Hyderabad,1,Gachibowli,36
+2026-03-02 00:00:00.900615,Hyderabad,2,Hitech City,28
+2026-03-02 00:00:00.900615,Hyderabad,3,Secunderabad,48
+2026-03-02 00:00:00.900615,Hyderabad,4,Kukatpally,55
+2026-03-02 01:00:00.900615,Hyderabad,1,Gachibowli,37
+2026-03-02 01:00:00.900615,Hyderabad,2,Hitech City,10
+2026-03-02 01:00:00.900615,Hyderabad,3,Secunderabad,10
+2026-03-02 01:00:00.900615,Hyderabad,4,Kukatpally,10
+2026-03-02 02:00:00.900615,Hyderabad,4,Kukatpally,10
+2026-03-02 02:00:00.900615,Hyderabad,3,Secunderabad,38
+2026-03-02 02:00:00.900615,Hyderabad,1,Gachibowli,13
+2026-03-02 02:00:00.900615,Hyderabad,2,Hitech City,34
+2026-03-02 03:00:00.900615,Hyderabad,1,Gachibowli,32
+2026-03-02 03:00:00.900615,Hyderabad,2,Hitech City,11
+2026-03-02 03:00:00.900615,Hyderabad,3,Secunderabad,32
+2026-03-02 03:00:00.900615,Hyderabad,4,Kukatpally,36
+2026-03-02 04:00:00.900615,Hyderabad,4,Kukatpally,14
+2026-03-02 04:00:00.900615,Hyderabad,1,Gachibowli,42
+2026-03-02 04:00:00.900615,Hyderabad,2,Hitech City,44
+2026-03-02 04:00:00.900615,Hyderabad,3,Secunderabad,28
+2026-03-02 05:00:00.900615,Hyderabad,4,Kukatpally,40
+2026-03-02 05:00:00.900615,Hyderabad,3,Secunderabad,43
+2026-03-02 05:00:00.900615,Hyderabad,1,Gachibowli,28
+2026-03-02 05:00:00.900615,Hyderabad,2,Hitech City,37
+2026-03-02 06:00:00.900615,Hyderabad,1,Gachibowli,71
+2026-03-02 06:00:00.900615,Hyderabad,2,Hitech City,62
+2026-03-02 06:00:00.900615,Hyderabad,3,Secunderabad,66
+2026-03-02 06:00:00.900615,Hyderabad,4,Kukatpally,85
+2026-03-02 07:00:00.900615,Hyderabad,4,Kukatpally,317
+2026-03-02 07:00:00.900615,Hyderabad,1,Gachibowli,298
+2026-03-02 07:00:00.900615,Hyderabad,2,Hitech City,296
+2026-03-02 07:00:00.900615,Hyderabad,3,Secunderabad,301
+2026-03-02 08:00:00.900615,Hyderabad,4,Kukatpally,436
+2026-03-02 08:00:00.900615,Hyderabad,3,Secunderabad,409
+2026-03-02 08:00:00.900615,Hyderabad,2,Hitech City,435
+2026-03-02 08:00:00.900615,Hyderabad,1,Gachibowli,426
+2026-03-02 09:00:00.900615,Hyderabad,4,Kukatpally,381
+2026-03-02 09:00:00.900615,Hyderabad,1,Gachibowli,383
+2026-03-02 09:00:00.900615,Hyderabad,2,Hitech City,394
+2026-03-02 09:00:00.900615,Hyderabad,3,Secunderabad,386
+2026-03-02 10:00:00.900615,Hyderabad,3,Secunderabad,291
+2026-03-02 10:00:00.900615,Hyderabad,4,Kukatpally,280
+2026-03-02 10:00:00.900615,Hyderabad,1,Gachibowli,291
+2026-03-02 10:00:00.900615,Hyderabad,2,Hitech City,271
+2026-03-02 11:00:00.900615,Hyderabad,4,Kukatpally,302
+2026-03-02 11:00:00.900615,Hyderabad,3,Secunderabad,300
+2026-03-02 11:00:00.900615,Hyderabad,2,Hitech City,294
+2026-03-02 11:00:00.900615,Hyderabad,1,Gachibowli,326
+2026-03-02 12:00:00.900615,Hyderabad,1,Gachibowli,324
+2026-03-02 12:00:00.900615,Hyderabad,2,Hitech City,345
+2026-03-02 12:00:00.900615,Hyderabad,3,Secunderabad,348
+2026-03-02 12:00:00.900615,Hyderabad,4,Kukatpally,355
+2026-03-02 13:00:00.900615,Hyderabad,1,Gachibowli,336
+2026-03-02 13:00:00.900615,Hyderabad,2,Hitech City,316
+2026-03-02 13:00:00.900615,Hyderabad,3,Secunderabad,301
+2026-03-02 13:00:00.900615,Hyderabad,4,Kukatpally,318
+2026-03-02 14:00:00.900615,Hyderabad,4,Kukatpally,307
+2026-03-02 14:00:00.900615,Hyderabad,3,Secunderabad,319
+2026-03-02 14:00:00.900615,Hyderabad,2,Hitech City,301
+2026-03-02 14:00:00.900615,Hyderabad,1,Gachibowli,324
+2026-03-02 15:00:00.900615,Hyderabad,1,Gachibowli,314
+2026-03-02 15:00:00.900615,Hyderabad,2,Hitech City,339
+2026-03-02 15:00:00.900615,Hyderabad,3,Secunderabad,330
+2026-03-02 15:00:00.900615,Hyderabad,4,Kukatpally,345
+2026-03-02 16:00:00.900615,Hyderabad,1,Gachibowli,412
+2026-03-02 16:00:00.900615,Hyderabad,2,Hitech City,381
+2026-03-02 16:00:00.900615,Hyderabad,3,Secunderabad,383
+2026-03-02 16:00:00.900615,Hyderabad,4,Kukatpally,399
+2026-03-02 17:00:00.900615,Hyderabad,4,Kukatpally,519
+2026-03-02 17:00:00.900615,Hyderabad,3,Secunderabad,508
+2026-03-02 17:00:00.900615,Hyderabad,2,Hitech City,519
+2026-03-02 17:00:00.900615,Hyderabad,1,Gachibowli,484
+2026-03-02 18:00:00.900615,Hyderabad,1,Gachibowli,463
+2026-03-02 18:00:00.900615,Hyderabad,2,Hitech City,473
+2026-03-02 18:00:00.900615,Hyderabad,3,Secunderabad,493
+2026-03-02 18:00:00.900615,Hyderabad,4,Kukatpally,486
+2026-03-02 19:00:00.900615,Hyderabad,4,Kukatpally,334
+2026-03-02 19:00:00.900615,Hyderabad,1,Gachibowli,358
+2026-03-02 19:00:00.900615,Hyderabad,2,Hitech City,361
+2026-03-02 19:00:00.900615,Hyderabad,3,Secunderabad,347
+2026-03-02 20:00:00.900615,Hyderabad,1,Gachibowli,265
+2026-03-02 20:00:00.900615,Hyderabad,2,Hitech City,267
+2026-03-02 20:00:00.900615,Hyderabad,3,Secunderabad,296
+2026-03-02 20:00:00.900615,Hyderabad,4,Kukatpally,294
+2026-03-02 21:00:00.900615,Hyderabad,3,Secunderabad,181
+2026-03-02 21:00:00.900615,Hyderabad,4,Kukatpally,185
+2026-03-02 21:00:00.900615,Hyderabad,1,Gachibowli,204
+2026-03-02 21:00:00.900615,Hyderabad,2,Hitech City,182
+2026-03-02 22:00:00.900615,Hyderabad,3,Secunderabad,112
+2026-03-02 22:00:00.900615,Hyderabad,4,Kukatpally,101
+2026-03-02 22:00:00.900615,Hyderabad,1,Gachibowli,137
+2026-03-02 22:00:00.900615,Hyderabad,2,Hitech City,113
+2026-03-02 23:00:00.900615,Hyderabad,4,Kukatpally,68
+2026-03-02 23:00:00.900615,Hyderabad,3,Secunderabad,69
+2026-03-02 23:00:00.900615,Hyderabad,2,Hitech City,67
+2026-03-02 23:00:00.900615,Hyderabad,1,Gachibowli,61
+2026-03-03 00:00:00.900615,Hyderabad,1,Gachibowli,45
+2026-03-03 00:00:00.900615,Hyderabad,2,Hitech City,16
+2026-03-03 00:00:00.900615,Hyderabad,3,Secunderabad,26
+2026-03-03 00:00:00.900615,Hyderabad,4,Kukatpally,35
+2026-03-03 01:00:00.900615,Hyderabad,1,Gachibowli,27
+2026-03-03 01:00:00.900615,Hyderabad,2,Hitech City,27
+2026-03-03 01:00:00.900615,Hyderabad,3,Secunderabad,24
+2026-03-03 01:00:00.900615,Hyderabad,4,Kukatpally,43
+2026-03-03 02:00:00.900615,Hyderabad,4,Kukatpally,34
+2026-03-03 02:00:00.900615,Hyderabad,3,Secunderabad,33
+2026-03-03 02:00:00.900615,Hyderabad,2,Hitech City,11
+2026-03-03 02:00:00.900615,Hyderabad,1,Gachibowli,11
+2026-03-03 03:00:00.900615,Hyderabad,1,Gachibowli,30
+2026-03-03 03:00:00.900615,Hyderabad,2,Hitech City,10
+2026-03-03 03:00:00.900615,Hyderabad,3,Secunderabad,26
+2026-03-03 03:00:00.900615,Hyderabad,4,Kukatpally,19
+2026-03-03 04:00:00.900615,Hyderabad,1,Gachibowli,18
+2026-03-03 04:00:00.900615,Hyderabad,2,Hitech City,10
+2026-03-03 04:00:00.900615,Hyderabad,3,Secunderabad,10
+2026-03-03 04:00:00.900615,Hyderabad,4,Kukatpally,38
+2026-03-03 05:00:00.900615,Hyderabad,4,Kukatpally,23
+2026-03-03 05:00:00.900615,Hyderabad,3,Secunderabad,21
+2026-03-03 05:00:00.900615,Hyderabad,2,Hitech City,24
+2026-03-03 05:00:00.900615,Hyderabad,1,Gachibowli,60
+2026-03-03 06:00:00.900615,Hyderabad,1,Gachibowli,92
+2026-03-03 06:00:00.900615,Hyderabad,2,Hitech City,67
+2026-03-03 06:00:00.900615,Hyderabad,3,Secunderabad,61
+2026-03-03 06:00:00.900615,Hyderabad,4,Kukatpally,71
+2026-03-03 07:00:00.900615,Hyderabad,1,Gachibowli,307
+2026-03-03 07:00:00.900615,Hyderabad,2,Hitech City,293
+2026-03-03 07:00:00.900615,Hyderabad,3,Secunderabad,308
+2026-03-03 07:00:00.900615,Hyderabad,4,Kukatpally,315
+2026-03-03 08:00:00.900615,Hyderabad,4,Kukatpally,436
+2026-03-03 08:00:00.900615,Hyderabad,3,Secunderabad,412
+2026-03-03 08:00:00.900615,Hyderabad,1,Gachibowli,435
+2026-03-03 08:00:00.900615,Hyderabad,2,Hitech City,404
+2026-03-03 09:00:00.900615,Hyderabad,1,Gachibowli,398
+2026-03-03 09:00:00.900615,Hyderabad,2,Hitech City,392
+2026-03-03 09:00:00.900615,Hyderabad,3,Secunderabad,363
+2026-03-03 09:00:00.900615,Hyderabad,4,Kukatpally,379
+2026-03-03 10:00:00.900615,Hyderabad,1,Gachibowli,278
+2026-03-03 10:00:00.900615,Hyderabad,2,Hitech City,284
+2026-03-03 10:00:00.900615,Hyderabad,3,Secunderabad,294
+2026-03-03 10:00:00.900615,Hyderabad,4,Kukatpally,272
+2026-03-03 11:00:00.900615,Hyderabad,3,Secunderabad,325
+2026-03-03 11:00:00.900615,Hyderabad,4,Kukatpally,325
+2026-03-03 11:00:00.900615,Hyderabad,2,Hitech City,303
+2026-03-03 11:00:00.900615,Hyderabad,1,Gachibowli,315
+2026-03-03 12:00:00.900615,Hyderabad,1,Gachibowli,348
+2026-03-03 12:00:00.900615,Hyderabad,2,Hitech City,338
+2026-03-03 12:00:00.900615,Hyderabad,3,Secunderabad,348
+2026-03-03 12:00:00.900615,Hyderabad,4,Kukatpally,334
+2026-03-03 13:00:00.900615,Hyderabad,4,Kukatpally,326
+2026-03-03 13:00:00.900615,Hyderabad,1,Gachibowli,303
+2026-03-03 13:00:00.900615,Hyderabad,2,Hitech City,340
+2026-03-03 13:00:00.900615,Hyderabad,3,Secunderabad,330
+2026-03-03 14:00:00.900615,Hyderabad,4,Kukatpally,308
+2026-03-03 14:00:00.900615,Hyderabad,3,Secunderabad,326
+2026-03-03 14:00:00.900615,Hyderabad,1,Gachibowli,299
+2026-03-03 14:00:00.900615,Hyderabad,2,Hitech City,296
+2026-03-03 15:00:00.900615,Hyderabad,3,Secunderabad,331
+2026-03-03 15:00:00.900615,Hyderabad,1,Gachibowli,346
+2026-03-03 15:00:00.900615,Hyderabad,2,Hitech City,340
+2026-03-03 15:00:00.900615,Hyderabad,4,Kukatpally,344
+2026-03-03 16:00:00.900615,Hyderabad,4,Kukatpally,406
+2026-03-03 16:00:00.900615,Hyderabad,3,Secunderabad,418
+2026-03-03 16:00:00.900615,Hyderabad,2,Hitech City,383
+2026-03-03 16:00:00.900615,Hyderabad,1,Gachibowli,413
+2026-03-03 17:00:00.900615,Hyderabad,1,Gachibowli,519
+2026-03-03 17:00:00.900615,Hyderabad,2,Hitech City,481
+2026-03-03 17:00:00.900615,Hyderabad,3,Secunderabad,518
+2026-03-03 17:00:00.900615,Hyderabad,4,Kukatpally,517
+2026-03-03 18:00:00.900615,Hyderabad,3,Secunderabad,482
+2026-03-03 18:00:00.900615,Hyderabad,4,Kukatpally,485
+2026-03-03 18:00:00.900615,Hyderabad,1,Gachibowli,488
+2026-03-03 18:00:00.900615,Hyderabad,2,Hitech City,492
+2026-03-03 19:00:00.900615,Hyderabad,1,Gachibowli,364
+2026-03-03 19:00:00.900615,Hyderabad,2,Hitech City,358
+2026-03-03 19:00:00.900615,Hyderabad,3,Secunderabad,345
+2026-03-03 19:00:00.900615,Hyderabad,4,Kukatpally,342
+2026-03-03 20:00:00.900615,Hyderabad,4,Kukatpally,298
+2026-03-03 20:00:00.900615,Hyderabad,1,Gachibowli,283
+2026-03-03 20:00:00.900615,Hyderabad,2,Hitech City,297
+2026-03-03 20:00:00.900615,Hyderabad,3,Secunderabad,284
+2026-03-03 21:00:00.900615,Hyderabad,3,Secunderabad,186
+2026-03-03 21:00:00.900615,Hyderabad,4,Kukatpally,190
+2026-03-03 21:00:00.900615,Hyderabad,1,Gachibowli,180
+2026-03-03 21:00:00.900615,Hyderabad,2,Hitech City,220
+2026-03-03 22:00:00.900615,Hyderabad,3,Secunderabad,106
+2026-03-03 22:00:00.900615,Hyderabad,4,Kukatpally,132
+2026-03-03 22:00:00.900615,Hyderabad,1,Gachibowli,122
+2026-03-03 22:00:00.900615,Hyderabad,2,Hitech City,104
+2026-03-03 23:00:00.900615,Hyderabad,4,Kukatpally,64
+2026-03-03 23:00:00.900615,Hyderabad,3,Secunderabad,46
+2026-03-03 23:00:00.900615,Hyderabad,2,Hitech City,80
+2026-03-03 23:00:00.900615,Hyderabad,1,Gachibowli,56
+2026-03-04 00:00:00.900615,Hyderabad,1,Gachibowli,25
+2026-03-04 00:00:00.900615,Hyderabad,2,Hitech City,19
+2026-03-04 00:00:00.900615,Hyderabad,3,Secunderabad,17
+2026-03-04 00:00:00.900615,Hyderabad,4,Kukatpally,47
+2026-03-04 01:00:00.900615,Hyderabad,1,Gachibowli,19
+2026-03-04 01:00:00.900615,Hyderabad,2,Hitech City,30
+2026-03-04 01:00:00.900615,Hyderabad,3,Secunderabad,10
+2026-03-04 01:00:00.900615,Hyderabad,4,Kukatpally,28
+2026-03-04 02:00:00.900615,Hyderabad,4,Kukatpally,17
+2026-03-04 02:00:00.900615,Hyderabad,3,Secunderabad,23
+2026-03-04 02:00:00.900615,Hyderabad,2,Hitech City,25
+2026-03-04 02:00:00.900615,Hyderabad,1,Gachibowli,26
+2026-03-04 03:00:00.900615,Hyderabad,1,Gachibowli,40
+2026-03-04 03:00:00.900615,Hyderabad,2,Hitech City,10
+2026-03-04 03:00:00.900615,Hyderabad,3,Secunderabad,25
+2026-03-04 03:00:00.900615,Hyderabad,4,Kukatpally,10
+2026-03-04 04:00:00.900615,Hyderabad,1,Gachibowli,37
+2026-03-04 04:00:00.900615,Hyderabad,2,Hitech City,41
+2026-03-04 04:00:00.900615,Hyderabad,3,Secunderabad,41
+2026-03-04 04:00:00.900615,Hyderabad,4,Kukatpally,40
+2026-03-04 05:00:00.900615,Hyderabad,4,Kukatpally,46
+2026-03-04 05:00:00.900615,Hyderabad,3,Secunderabad,57
+2026-03-04 05:00:00.900615,Hyderabad,2,Hitech City,47
+2026-03-04 05:00:00.900615,Hyderabad,1,Gachibowli,43
+2026-03-04 06:00:00.900615,Hyderabad,1,Gachibowli,72
+2026-03-04 06:00:00.900615,Hyderabad,2,Hitech City,83
+2026-03-04 06:00:00.900615,Hyderabad,3,Secunderabad,78
+2026-03-04 06:00:00.900615,Hyderabad,4,Kukatpally,97
+2026-03-04 07:00:00.900615,Hyderabad,1,Gachibowli,290
+2026-03-04 07:00:00.900615,Hyderabad,2,Hitech City,311
+2026-03-04 07:00:00.900615,Hyderabad,3,Secunderabad,297
+2026-03-04 07:00:00.900615,Hyderabad,4,Kukatpally,289
+2026-03-04 08:00:00.900615,Hyderabad,4,Kukatpally,426
+2026-03-04 08:00:00.900615,Hyderabad,3,Secunderabad,409
+2026-03-04 08:00:00.900615,Hyderabad,1,Gachibowli,432
+2026-03-04 08:00:00.900615,Hyderabad,2,Hitech City,414
+2026-03-04 09:00:00.900615,Hyderabad,1,Gachibowli,395
+2026-03-04 09:00:00.900615,Hyderabad,2,Hitech City,362
+2026-03-04 09:00:00.900615,Hyderabad,3,Secunderabad,384
+2026-03-04 09:00:00.900615,Hyderabad,4,Kukatpally,374
+2026-03-04 10:00:00.900615,Hyderabad,1,Gachibowli,294
+2026-03-04 10:00:00.900615,Hyderabad,2,Hitech City,281
+2026-03-04 10:00:00.900615,Hyderabad,3,Secunderabad,292
+2026-03-04 10:00:00.900615,Hyderabad,4,Kukatpally,276
+2026-03-04 11:00:00.900615,Hyderabad,4,Kukatpally,328
+2026-03-04 11:00:00.900615,Hyderabad,3,Secunderabad,301
+2026-03-04 11:00:00.900615,Hyderabad,2,Hitech City,299
+2026-03-04 11:00:00.900615,Hyderabad,1,Gachibowli,328
+2026-03-04 12:00:00.900615,Hyderabad,1,Gachibowli,338
+2026-03-04 12:00:00.900615,Hyderabad,2,Hitech City,341
+2026-03-04 12:00:00.900615,Hyderabad,3,Secunderabad,354
+2026-03-04 12:00:00.900615,Hyderabad,4,Kukatpally,324
+2026-03-04 13:00:00.900615,Hyderabad,1,Gachibowli,323
+2026-03-04 13:00:00.900615,Hyderabad,2,Hitech City,318
+2026-03-04 13:00:00.900615,Hyderabad,3,Secunderabad,330
+2026-03-04 13:00:00.900615,Hyderabad,4,Kukatpally,333
+2026-03-04 14:00:00.900615,Hyderabad,4,Kukatpally,307
+2026-03-04 14:00:00.900615,Hyderabad,3,Secunderabad,324
+2026-03-04 14:00:00.900615,Hyderabad,2,Hitech City,306
+2026-03-04 14:00:00.900615,Hyderabad,1,Gachibowli,321
+2026-03-04 15:00:00.900615,Hyderabad,1,Gachibowli,314
+2026-03-04 15:00:00.900615,Hyderabad,2,Hitech City,341
+2026-03-04 15:00:00.900615,Hyderabad,3,Secunderabad,333
+2026-03-04 15:00:00.900615,Hyderabad,4,Kukatpally,349
+2026-03-04 16:00:00.900615,Hyderabad,1,Gachibowli,417
+2026-03-04 16:00:00.900615,Hyderabad,2,Hitech City,416
+2026-03-04 16:00:00.900615,Hyderabad,3,Secunderabad,387
+2026-03-04 16:00:00.900615,Hyderabad,4,Kukatpally,406
+2026-03-04 17:00:00.900615,Hyderabad,4,Kukatpally,490
+2026-03-04 17:00:00.900615,Hyderabad,3,Secunderabad,483
+2026-03-04 17:00:00.900615,Hyderabad,1,Gachibowli,510
+2026-03-04 17:00:00.900615,Hyderabad,2,Hitech City,493
+2026-03-04 18:00:00.900615,Hyderabad,1,Gachibowli,471
+2026-03-04 18:00:00.900615,Hyderabad,2,Hitech City,500
+2026-03-04 18:00:00.900615,Hyderabad,3,Secunderabad,467
+2026-03-04 18:00:00.900615,Hyderabad,4,Kukatpally,496
+2026-03-04 19:00:00.900615,Hyderabad,4,Kukatpally,343
+2026-03-04 19:00:00.900615,Hyderabad,1,Gachibowli,361
+2026-03-04 19:00:00.900615,Hyderabad,2,Hitech City,353
+2026-03-04 19:00:00.900615,Hyderabad,3,Secunderabad,369
+2026-03-04 20:00:00.900615,Hyderabad,4,Kukatpally,293
+2026-03-04 20:00:00.900615,Hyderabad,3,Secunderabad,298
+2026-03-04 20:00:00.900615,Hyderabad,2,Hitech City,299
+2026-03-04 20:00:00.900615,Hyderabad,1,Gachibowli,268
+2026-03-04 21:00:00.900615,Hyderabad,4,Kukatpally,215
+2026-03-04 21:00:00.900615,Hyderabad,1,Gachibowli,202
+2026-03-04 21:00:00.900615,Hyderabad,2,Hitech City,187
+2026-03-04 21:00:00.900615,Hyderabad,3,Secunderabad,208
+2026-03-04 22:00:00.900615,Hyderabad,3,Secunderabad,128
+2026-03-04 22:00:00.900615,Hyderabad,4,Kukatpally,104
+2026-03-04 22:00:00.900615,Hyderabad,1,Gachibowli,129
+2026-03-04 22:00:00.900615,Hyderabad,2,Hitech City,120
+2026-03-04 23:00:00.900615,Hyderabad,4,Kukatpally,50
+2026-03-04 23:00:00.900615,Hyderabad,3,Secunderabad,68
+2026-03-04 23:00:00.900615,Hyderabad,2,Hitech City,72
+2026-03-04 23:00:00.900615,Hyderabad,1,Gachibowli,71
+2026-03-05 00:00:00.900615,Hyderabad,1,Gachibowli,25
+2026-03-05 00:00:00.900615,Hyderabad,2,Hitech City,53
+2026-03-05 00:00:00.900615,Hyderabad,3,Secunderabad,17
+2026-03-05 00:00:00.900615,Hyderabad,4,Kukatpally,24
+2026-03-05 01:00:00.900615,Hyderabad,4,Kukatpally,35
+2026-03-05 01:00:00.900615,Hyderabad,1,Gachibowli,43
+2026-03-05 01:00:00.900615,Hyderabad,2,Hitech City,22
+2026-03-05 01:00:00.900615,Hyderabad,3,Secunderabad,16
+2026-03-05 02:00:00.900615,Hyderabad,4,Kukatpally,15
+2026-03-05 02:00:00.900615,Hyderabad,3,Secunderabad,30
+2026-03-05 02:00:00.900615,Hyderabad,1,Gachibowli,22
+2026-03-05 02:00:00.900615,Hyderabad,2,Hitech City,38
+2026-03-05 03:00:00.900615,Hyderabad,4,Kukatpally,18
+2026-03-05 03:00:00.900615,Hyderabad,1,Gachibowli,21
+2026-03-05 03:00:00.900615,Hyderabad,2,Hitech City,26
+2026-03-05 03:00:00.900615,Hyderabad,3,Secunderabad,36
+2026-03-05 04:00:00.900615,Hyderabad,3,Secunderabad,16
+2026-03-05 04:00:00.900615,Hyderabad,4,Kukatpally,19
+2026-03-05 04:00:00.900615,Hyderabad,1,Gachibowli,43
+2026-03-05 04:00:00.900615,Hyderabad,2,Hitech City,19
+2026-03-05 05:00:00.900615,Hyderabad,4,Kukatpally,27
+2026-03-05 05:00:00.900615,Hyderabad,3,Secunderabad,29
+2026-03-05 05:00:00.900615,Hyderabad,1,Gachibowli,32
+2026-03-05 05:00:00.900615,Hyderabad,2,Hitech City,60
+2026-03-05 06:00:00.900615,Hyderabad,1,Gachibowli,66
+2026-03-05 06:00:00.900615,Hyderabad,2,Hitech City,85
+2026-03-05 06:00:00.900615,Hyderabad,3,Secunderabad,100
+2026-03-05 06:00:00.900615,Hyderabad,4,Kukatpally,79
+2026-03-05 07:00:00.900615,Hyderabad,4,Kukatpally,298
+2026-03-05 07:00:00.900615,Hyderabad,1,Gachibowli,293
+2026-03-05 07:00:00.900615,Hyderabad,2,Hitech City,304
+2026-03-05 07:00:00.900615,Hyderabad,3,Secunderabad,314
+2026-03-05 08:00:00.900615,Hyderabad,1,Gachibowli,440
+2026-03-05 08:00:00.900615,Hyderabad,2,Hitech City,401
+2026-03-05 08:00:00.900615,Hyderabad,3,Secunderabad,408
+2026-03-05 08:00:00.900615,Hyderabad,4,Kukatpally,417
+2026-03-05 09:00:00.900615,Hyderabad,2,Hitech City,376
+2026-03-05 09:00:00.900615,Hyderabad,3,Secunderabad,393
+2026-03-05 09:00:00.900615,Hyderabad,1,Gachibowli,399
+2026-03-05 09:00:00.900615,Hyderabad,4,Kukatpally,375
+2026-03-05 10:00:00.900615,Hyderabad,4,Kukatpally,283
+2026-03-05 10:00:00.900615,Hyderabad,3,Secunderabad,289
+2026-03-05 10:00:00.900615,Hyderabad,2,Hitech City,294
+2026-03-05 10:00:00.900615,Hyderabad,1,Gachibowli,294
+2026-03-05 11:00:00.900615,Hyderabad,1,Gachibowli,321
+2026-03-05 11:00:00.900615,Hyderabad,2,Hitech City,299
+2026-03-05 11:00:00.900615,Hyderabad,3,Secunderabad,296
+2026-03-05 11:00:00.900615,Hyderabad,4,Kukatpally,308
+2026-03-05 12:00:00.900615,Hyderabad,3,Secunderabad,329
+2026-03-05 12:00:00.900615,Hyderabad,4,Kukatpally,330
+2026-03-05 12:00:00.900615,Hyderabad,1,Gachibowli,327
+2026-03-05 12:00:00.900615,Hyderabad,2,Hitech City,347
+2026-03-05 13:00:00.900615,Hyderabad,1,Gachibowli,312
+2026-03-05 13:00:00.900615,Hyderabad,2,Hitech City,329
+2026-03-05 13:00:00.900615,Hyderabad,3,Secunderabad,334
+2026-03-05 13:00:00.900615,Hyderabad,4,Kukatpally,300
+2026-03-05 14:00:00.900615,Hyderabad,4,Kukatpally,305
+2026-03-05 14:00:00.900615,Hyderabad,1,Gachibowli,304
+2026-03-05 14:00:00.900615,Hyderabad,2,Hitech City,314
+2026-03-05 14:00:00.900615,Hyderabad,3,Secunderabad,319
+2026-03-05 15:00:00.900615,Hyderabad,3,Secunderabad,326
+2026-03-05 15:00:00.900615,Hyderabad,4,Kukatpally,322
+2026-03-05 15:00:00.900615,Hyderabad,1,Gachibowli,338
+2026-03-05 15:00:00.900615,Hyderabad,2,Hitech City,327
+2026-03-05 16:00:00.900615,Hyderabad,1,Gachibowli,391
+2026-03-05 16:00:00.900615,Hyderabad,2,Hitech City,396
+2026-03-05 16:00:00.900615,Hyderabad,3,Secunderabad,393
+2026-03-05 16:00:00.900615,Hyderabad,4,Kukatpally,390
+2026-03-05 17:00:00.900615,Hyderabad,1,Gachibowli,507
+2026-03-05 17:00:00.900615,Hyderabad,2,Hitech City,518
+2026-03-05 17:00:00.900615,Hyderabad,3,Secunderabad,506
+2026-03-05 17:00:00.900615,Hyderabad,4,Kukatpally,502
+2026-03-05 18:00:00.900615,Hyderabad,4,Kukatpally,470
+2026-03-05 18:00:00.900615,Hyderabad,3,Secunderabad,477
+2026-03-05 18:00:00.900615,Hyderabad,2,Hitech City,490
+2026-03-05 18:00:00.900615,Hyderabad,1,Gachibowli,480
+2026-03-05 19:00:00.900615,Hyderabad,1,Gachibowli,331
+2026-03-05 19:00:00.900615,Hyderabad,2,Hitech City,345
+2026-03-05 19:00:00.900615,Hyderabad,3,Secunderabad,356
+2026-03-05 19:00:00.900615,Hyderabad,4,Kukatpally,345
+2026-03-05 20:00:00.900615,Hyderabad,4,Kukatpally,292
+2026-03-05 20:00:00.900615,Hyderabad,1,Gachibowli,296
+2026-03-05 20:00:00.900615,Hyderabad,2,Hitech City,283
+2026-03-05 20:00:00.900615,Hyderabad,3,Secunderabad,286
+2026-03-05 21:00:00.900615,Hyderabad,3,Secunderabad,183
+2026-03-05 21:00:00.900615,Hyderabad,4,Kukatpally,217
+2026-03-05 21:00:00.900615,Hyderabad,1,Gachibowli,184
+2026-03-05 21:00:00.900615,Hyderabad,2,Hitech City,200
+2026-03-05 22:00:00.900615,Hyderabad,3,Secunderabad,139
+2026-03-05 22:00:00.900615,Hyderabad,4,Kukatpally,139
+2026-03-05 22:00:00.900615,Hyderabad,1,Gachibowli,125
+2026-03-05 22:00:00.900615,Hyderabad,2,Hitech City,135
+2026-03-05 23:00:00.900615,Hyderabad,3,Secunderabad,52
+2026-03-05 23:00:00.900615,Hyderabad,4,Kukatpally,50
+2026-03-05 23:00:00.900615,Hyderabad,1,Gachibowli,50
+2026-03-05 23:00:00.900615,Hyderabad,2,Hitech City,79
+2026-03-06 00:00:00.900615,Hyderabad,1,Gachibowli,53
+2026-03-06 00:00:00.900615,Hyderabad,2,Hitech City,23
+2026-03-06 00:00:00.900615,Hyderabad,3,Secunderabad,32
+2026-03-06 00:00:00.900615,Hyderabad,4,Kukatpally,32
+2026-03-06 01:00:00.900615,Hyderabad,1,Gachibowli,27
+2026-03-06 01:00:00.900615,Hyderabad,2,Hitech City,29
+2026-03-06 01:00:00.900615,Hyderabad,3,Secunderabad,10
+2026-03-06 01:00:00.900615,Hyderabad,4,Kukatpally,26
+2026-03-06 02:00:00.900615,Hyderabad,4,Kukatpally,24
+2026-03-06 02:00:00.900615,Hyderabad,3,Secunderabad,33
+2026-03-06 02:00:00.900615,Hyderabad,1,Gachibowli,31
+2026-03-06 02:00:00.900615,Hyderabad,2,Hitech City,10
+2026-03-06 03:00:00.900615,Hyderabad,1,Gachibowli,27
+2026-03-06 03:00:00.900615,Hyderabad,2,Hitech City,24
+2026-03-06 03:00:00.900615,Hyderabad,3,Secunderabad,16
+2026-03-06 03:00:00.900615,Hyderabad,4,Kukatpally,27
+2026-03-06 04:00:00.900615,Hyderabad,4,Kukatpally,33
+2026-03-06 04:00:00.900615,Hyderabad,1,Gachibowli,25
+2026-03-06 04:00:00.900615,Hyderabad,2,Hitech City,31
+2026-03-06 04:00:00.900615,Hyderabad,3,Secunderabad,44
+2026-03-06 05:00:00.900615,Hyderabad,4,Kukatpally,25
+2026-03-06 05:00:00.900615,Hyderabad,3,Secunderabad,48
+2026-03-06 05:00:00.900615,Hyderabad,1,Gachibowli,54
+2026-03-06 05:00:00.900615,Hyderabad,2,Hitech City,37
+2026-03-06 06:00:00.900615,Hyderabad,1,Gachibowli,86
+2026-03-06 06:00:00.900615,Hyderabad,2,Hitech City,62
+2026-03-06 06:00:00.900615,Hyderabad,3,Secunderabad,100
+2026-03-06 06:00:00.900615,Hyderabad,4,Kukatpally,81
+2026-03-06 07:00:00.900615,Hyderabad,4,Kukatpally,292
+2026-03-06 07:00:00.900615,Hyderabad,1,Gachibowli,314
+2026-03-06 07:00:00.900615,Hyderabad,2,Hitech City,312
+2026-03-06 07:00:00.900615,Hyderabad,3,Secunderabad,282
+2026-03-06 08:00:00.900615,Hyderabad,4,Kukatpally,439
+2026-03-06 08:00:00.900615,Hyderabad,3,Secunderabad,431
+2026-03-06 08:00:00.900615,Hyderabad,2,Hitech City,428
+2026-03-06 08:00:00.900615,Hyderabad,1,Gachibowli,412
+2026-03-06 09:00:00.900615,Hyderabad,4,Kukatpally,370
+2026-03-06 09:00:00.900615,Hyderabad,1,Gachibowli,364
+2026-03-06 09:00:00.900615,Hyderabad,2,Hitech City,393
+2026-03-06 09:00:00.900615,Hyderabad,3,Secunderabad,368
+2026-03-06 10:00:00.900615,Hyderabad,3,Secunderabad,287
+2026-03-06 10:00:00.900615,Hyderabad,4,Kukatpally,269
+2026-03-06 10:00:00.900615,Hyderabad,1,Gachibowli,264
+2026-03-06 10:00:00.900615,Hyderabad,2,Hitech City,285
+2026-03-06 11:00:00.900615,Hyderabad,4,Kukatpally,320
+2026-03-06 11:00:00.900615,Hyderabad,3,Secunderabad,325
+2026-03-06 11:00:00.900615,Hyderabad,2,Hitech City,322
+2026-03-06 11:00:00.900615,Hyderabad,1,Gachibowli,320
+2026-03-06 12:00:00.900615,Hyderabad,1,Gachibowli,332
+2026-03-06 12:00:00.900615,Hyderabad,2,Hitech City,360
+2026-03-06 12:00:00.900615,Hyderabad,3,Secunderabad,330
+2026-03-06 12:00:00.900615,Hyderabad,4,Kukatpally,349
+2026-03-06 13:00:00.900615,Hyderabad,1,Gachibowli,312
+2026-03-06 13:00:00.900615,Hyderabad,2,Hitech City,310
+2026-03-06 13:00:00.900615,Hyderabad,3,Secunderabad,331
+2026-03-06 13:00:00.900615,Hyderabad,4,Kukatpally,332
+2026-03-06 14:00:00.900615,Hyderabad,4,Kukatpally,300
+2026-03-06 14:00:00.900615,Hyderabad,3,Secunderabad,316
+2026-03-06 14:00:00.900615,Hyderabad,2,Hitech City,329
+2026-03-06 14:00:00.900615,Hyderabad,1,Gachibowli,308
+2026-03-06 15:00:00.900615,Hyderabad,1,Gachibowli,324
+2026-03-06 15:00:00.900615,Hyderabad,2,Hitech City,322
+2026-03-06 15:00:00.900615,Hyderabad,3,Secunderabad,343
+2026-03-06 15:00:00.900615,Hyderabad,4,Kukatpally,316
+2026-03-06 16:00:00.900615,Hyderabad,1,Gachibowli,386
+2026-03-06 16:00:00.900615,Hyderabad,2,Hitech City,402
+2026-03-06 16:00:00.900615,Hyderabad,3,Secunderabad,411
+2026-03-06 16:00:00.900615,Hyderabad,4,Kukatpally,420
+2026-03-06 17:00:00.900615,Hyderabad,4,Kukatpally,493
+2026-03-06 17:00:00.900615,Hyderabad,3,Secunderabad,497
+2026-03-06 17:00:00.900615,Hyderabad,2,Hitech City,497
+2026-03-06 17:00:00.900615,Hyderabad,1,Gachibowli,486
+2026-03-06 18:00:00.900615,Hyderabad,1,Gachibowli,474
+2026-03-06 18:00:00.900615,Hyderabad,2,Hitech City,491
+2026-03-06 18:00:00.900615,Hyderabad,3,Secunderabad,477
+2026-03-06 18:00:00.900615,Hyderabad,4,Kukatpally,470
+2026-03-06 19:00:00.900615,Hyderabad,4,Kukatpally,344
+2026-03-06 19:00:00.900615,Hyderabad,1,Gachibowli,336
+2026-03-06 19:00:00.900615,Hyderabad,2,Hitech City,353
+2026-03-06 19:00:00.900615,Hyderabad,3,Secunderabad,369
+2026-03-06 20:00:00.900615,Hyderabad,1,Gachibowli,272
+2026-03-06 20:00:00.900615,Hyderabad,2,Hitech City,269
+2026-03-06 20:00:00.900615,Hyderabad,3,Secunderabad,262
+2026-03-06 20:00:00.900615,Hyderabad,4,Kukatpally,276
+2026-03-06 21:00:00.900615,Hyderabad,3,Secunderabad,186
+2026-03-06 21:00:00.900615,Hyderabad,4,Kukatpally,211
+2026-03-06 21:00:00.900615,Hyderabad,1,Gachibowli,180
+2026-03-06 21:00:00.900615,Hyderabad,2,Hitech City,193
+2026-03-06 22:00:00.900615,Hyderabad,3,Secunderabad,116
+2026-03-06 22:00:00.900615,Hyderabad,4,Kukatpally,114
+2026-03-06 22:00:00.900615,Hyderabad,1,Gachibowli,119
+2026-03-06 22:00:00.900615,Hyderabad,2,Hitech City,101
+2026-03-06 23:00:00.900615,Hyderabad,4,Kukatpally,55
+2026-03-06 23:00:00.900615,Hyderabad,3,Secunderabad,75
+2026-03-06 23:00:00.900615,Hyderabad,2,Hitech City,51
+2026-03-06 23:00:00.900615,Hyderabad,1,Gachibowli,66
+2026-03-07 00:00:00.900615,Hyderabad,1,Gachibowli,20
+2026-03-07 00:00:00.900615,Hyderabad,2,Hitech City,37
+2026-03-07 00:00:00.900615,Hyderabad,3,Secunderabad,11
+2026-03-07 00:00:00.900615,Hyderabad,4,Kukatpally,39
+2026-03-07 01:00:00.900615,Hyderabad,1,Gachibowli,15
+2026-03-07 01:00:00.900615,Hyderabad,2,Hitech City,36
+2026-03-07 01:00:00.900615,Hyderabad,3,Secunderabad,34
+2026-03-07 01:00:00.900615,Hyderabad,4,Kukatpally,10
+2026-03-07 02:00:00.900615,Hyderabad,4,Kukatpally,34
+2026-03-07 02:00:00.900615,Hyderabad,3,Secunderabad,31
+2026-03-07 02:00:00.900615,Hyderabad,2,Hitech City,10
+2026-03-07 02:00:00.900615,Hyderabad,1,Gachibowli,35
+2026-03-07 03:00:00.900615,Hyderabad,1,Gachibowli,11
+2026-03-07 03:00:00.900615,Hyderabad,2,Hitech City,26
+2026-03-07 03:00:00.900615,Hyderabad,3,Secunderabad,19
+2026-03-07 03:00:00.900615,Hyderabad,4,Kukatpally,31
+2026-03-07 04:00:00.900615,Hyderabad,1,Gachibowli,10
+2026-03-07 04:00:00.900615,Hyderabad,2,Hitech City,26
+2026-03-07 04:00:00.900615,Hyderabad,3,Secunderabad,18
+2026-03-07 04:00:00.900615,Hyderabad,4,Kukatpally,20
+2026-03-07 05:00:00.900615,Hyderabad,4,Kukatpally,29
+2026-03-07 05:00:00.900615,Hyderabad,3,Secunderabad,36
+2026-03-07 05:00:00.900615,Hyderabad,2,Hitech City,36
+2026-03-07 05:00:00.900615,Hyderabad,1,Gachibowli,10
+2026-03-07 06:00:00.900615,Hyderabad,1,Gachibowli,72
+2026-03-07 06:00:00.900615,Hyderabad,2,Hitech City,52
+2026-03-07 06:00:00.900615,Hyderabad,3,Secunderabad,37
+2026-03-07 06:00:00.900615,Hyderabad,4,Kukatpally,74
+2026-03-07 07:00:00.900615,Hyderabad,1,Gachibowli,217
+2026-03-07 07:00:00.900615,Hyderabad,2,Hitech City,224
+2026-03-07 07:00:00.900615,Hyderabad,3,Secunderabad,224
+2026-03-07 07:00:00.900615,Hyderabad,4,Kukatpally,197
+2026-03-07 08:00:00.900615,Hyderabad,4,Kukatpally,311
+2026-03-07 08:00:00.900615,Hyderabad,3,Secunderabad,283
+2026-03-07 08:00:00.900615,Hyderabad,1,Gachibowli,299
+2026-03-07 08:00:00.900615,Hyderabad,2,Hitech City,299
+2026-03-07 09:00:00.900615,Hyderabad,1,Gachibowli,278
+2026-03-07 09:00:00.900615,Hyderabad,2,Hitech City,283
+2026-03-07 09:00:00.900615,Hyderabad,3,Secunderabad,272
+2026-03-07 09:00:00.900615,Hyderabad,4,Kukatpally,247
+2026-03-07 10:00:00.900615,Hyderabad,1,Gachibowli,182
+2026-03-07 10:00:00.900615,Hyderabad,2,Hitech City,181
+2026-03-07 10:00:00.900615,Hyderabad,3,Secunderabad,208
+2026-03-07 10:00:00.900615,Hyderabad,4,Kukatpally,187
+2026-03-07 11:00:00.900615,Hyderabad,4,Kukatpally,198
+2026-03-07 11:00:00.900615,Hyderabad,3,Secunderabad,235
+2026-03-07 11:00:00.900615,Hyderabad,2,Hitech City,226
+2026-03-07 11:00:00.900615,Hyderabad,1,Gachibowli,203
+2026-03-07 12:00:00.900615,Hyderabad,1,Gachibowli,232
+2026-03-07 12:00:00.900615,Hyderabad,2,Hitech City,221
+2026-03-07 12:00:00.900615,Hyderabad,3,Secunderabad,233
+2026-03-07 12:00:00.900615,Hyderabad,4,Kukatpally,252
+2026-03-07 13:00:00.900615,Hyderabad,1,Gachibowli,238
+2026-03-07 13:00:00.900615,Hyderabad,2,Hitech City,213
+2026-03-07 13:00:00.900615,Hyderabad,3,Secunderabad,240
+2026-03-07 13:00:00.900615,Hyderabad,4,Kukatpally,231
+2026-03-07 14:00:00.900615,Hyderabad,4,Kukatpally,205
+2026-03-07 14:00:00.900615,Hyderabad,3,Secunderabad,214
+2026-03-07 14:00:00.900615,Hyderabad,1,Gachibowli,231
+2026-03-07 14:00:00.900615,Hyderabad,2,Hitech City,202
+2026-03-07 15:00:00.900615,Hyderabad,1,Gachibowli,214
+2026-03-07 15:00:00.900615,Hyderabad,2,Hitech City,219
+2026-03-07 15:00:00.900615,Hyderabad,3,Secunderabad,232
+2026-03-07 15:00:00.900615,Hyderabad,4,Kukatpally,222
+2026-03-07 16:00:00.900615,Hyderabad,1,Gachibowli,262
+2026-03-07 16:00:00.900615,Hyderabad,2,Hitech City,278
+2026-03-07 16:00:00.900615,Hyderabad,3,Secunderabad,292
+2026-03-07 16:00:00.900615,Hyderabad,4,Kukatpally,287
+2026-03-07 17:00:00.900615,Hyderabad,4,Kukatpally,358
+2026-03-07 17:00:00.900615,Hyderabad,3,Secunderabad,349
+2026-03-07 17:00:00.900615,Hyderabad,2,Hitech City,331
+2026-03-07 17:00:00.900615,Hyderabad,1,Gachibowli,348
+2026-03-07 18:00:00.900615,Hyderabad,1,Gachibowli,346
+2026-03-07 18:00:00.900615,Hyderabad,2,Hitech City,340
+2026-03-07 18:00:00.900615,Hyderabad,3,Secunderabad,322
+2026-03-07 18:00:00.900615,Hyderabad,4,Kukatpally,333
+2026-03-07 19:00:00.900615,Hyderabad,1,Gachibowli,254
+2026-03-07 19:00:00.900615,Hyderabad,2,Hitech City,241
+2026-03-07 19:00:00.900615,Hyderabad,3,Secunderabad,225
+2026-03-07 19:00:00.900615,Hyderabad,4,Kukatpally,229
+2026-03-07 20:00:00.900615,Hyderabad,4,Kukatpally,178
+2026-03-07 20:00:00.900615,Hyderabad,3,Secunderabad,180
+2026-03-07 20:00:00.900615,Hyderabad,2,Hitech City,213
+2026-03-07 20:00:00.900615,Hyderabad,1,Gachibowli,198
+2026-03-07 21:00:00.900615,Hyderabad,1,Gachibowli,126
+2026-03-07 21:00:00.900615,Hyderabad,2,Hitech City,160
+2026-03-07 21:00:00.900615,Hyderabad,3,Secunderabad,133
+2026-03-07 21:00:00.900615,Hyderabad,4,Kukatpally,134
+2026-03-07 22:00:00.900615,Hyderabad,1,Gachibowli,83
+2026-03-07 22:00:00.900615,Hyderabad,2,Hitech City,104
+2026-03-07 22:00:00.900615,Hyderabad,3,Secunderabad,85
+2026-03-07 22:00:00.900615,Hyderabad,4,Kukatpally,103
+2026-03-07 23:00:00.900615,Hyderabad,4,Kukatpally,35
+2026-03-07 23:00:00.900615,Hyderabad,3,Secunderabad,33
+2026-03-07 23:00:00.900615,Hyderabad,1,Gachibowli,61
+2026-03-07 23:00:00.900615,Hyderabad,2,Hitech City,40
+2026-03-08 00:00:00.900615,Hyderabad,1,Gachibowli,10
+2026-03-08 00:00:00.900615,Hyderabad,2,Hitech City,34
+2026-03-08 00:00:00.900615,Hyderabad,3,Secunderabad,12
+2026-03-08 00:00:00.900615,Hyderabad,4,Kukatpally,42
+2026-03-08 01:00:00.900615,Hyderabad,1,Gachibowli,26
+2026-03-08 01:00:00.900615,Hyderabad,2,Hitech City,33
+2026-03-08 01:00:00.900615,Hyderabad,3,Secunderabad,11
+2026-03-08 01:00:00.900615,Hyderabad,4,Kukatpally,31
+2026-03-08 02:00:00.900615,Hyderabad,4,Kukatpally,25
+2026-03-08 02:00:00.900615,Hyderabad,3,Secunderabad,12
+2026-03-08 02:00:00.900615,Hyderabad,1,Gachibowli,28
+2026-03-08 02:00:00.900615,Hyderabad,2,Hitech City,15
+2026-03-08 03:00:00.900615,Hyderabad,1,Gachibowli,10
+2026-03-08 03:00:00.900615,Hyderabad,2,Hitech City,10
+2026-03-08 03:00:00.900615,Hyderabad,3,Secunderabad,26
+2026-03-08 03:00:00.900615,Hyderabad,4,Kukatpally,24
+2026-03-08 04:00:00.900615,Hyderabad,4,Kukatpally,10
+2026-03-08 04:00:00.900615,Hyderabad,1,Gachibowli,10
+2026-03-08 04:00:00.900615,Hyderabad,2,Hitech City,27
+2026-03-08 04:00:00.900615,Hyderabad,3,Secunderabad,10
+2026-03-08 05:00:00.900615,Hyderabad,4,Kukatpally,26
+2026-03-08 05:00:00.900615,Hyderabad,3,Secunderabad,12
+2026-03-08 05:00:00.900615,Hyderabad,1,Gachibowli,25
+2026-03-08 05:00:00.900615,Hyderabad,2,Hitech City,32
+2026-03-08 06:00:00.900615,Hyderabad,1,Gachibowli,39
+2026-03-08 06:00:00.900615,Hyderabad,2,Hitech City,65
+2026-03-08 06:00:00.900615,Hyderabad,3,Secunderabad,51
+2026-03-08 06:00:00.900615,Hyderabad,4,Kukatpally,70
+2026-03-08 07:00:00.900615,Hyderabad,4,Kukatpally,218
+2026-03-08 07:00:00.900615,Hyderabad,1,Gachibowli,221
+2026-03-08 07:00:00.900615,Hyderabad,2,Hitech City,195
+2026-03-08 07:00:00.900615,Hyderabad,3,Secunderabad,193
+2026-03-08 08:00:00.900615,Hyderabad,4,Kukatpally,285
+2026-03-08 08:00:00.900615,Hyderabad,3,Secunderabad,274
+2026-03-08 08:00:00.900615,Hyderabad,2,Hitech City,280
+2026-03-08 08:00:00.900615,Hyderabad,1,Gachibowli,284
+2026-03-08 09:00:00.900615,Hyderabad,4,Kukatpally,256
+2026-03-08 09:00:00.900615,Hyderabad,1,Gachibowli,262
+2026-03-08 09:00:00.900615,Hyderabad,2,Hitech City,252
+2026-03-08 09:00:00.900615,Hyderabad,3,Secunderabad,284
+2026-03-08 10:00:00.900615,Hyderabad,3,Secunderabad,205
+2026-03-08 10:00:00.900615,Hyderabad,4,Kukatpally,216
+2026-03-08 10:00:00.900615,Hyderabad,1,Gachibowli,207
+2026-03-08 10:00:00.900615,Hyderabad,2,Hitech City,181
+2026-03-08 11:00:00.900615,Hyderabad,4,Kukatpally,228
+2026-03-08 11:00:00.900615,Hyderabad,3,Secunderabad,234
+2026-03-08 11:00:00.900615,Hyderabad,2,Hitech City,203
+2026-03-08 11:00:00.900615,Hyderabad,1,Gachibowli,226
+2026-03-08 12:00:00.900615,Hyderabad,1,Gachibowli,231
+2026-03-08 12:00:00.900615,Hyderabad,2,Hitech City,255
+2026-03-08 12:00:00.900615,Hyderabad,3,Secunderabad,236
+2026-03-08 12:00:00.900615,Hyderabad,4,Kukatpally,254
+2026-03-08 13:00:00.900615,Hyderabad,1,Gachibowli,238
+2026-03-08 13:00:00.900615,Hyderabad,2,Hitech City,217
+2026-03-08 13:00:00.900615,Hyderabad,3,Secunderabad,214
+2026-03-08 13:00:00.900615,Hyderabad,4,Kukatpally,228
+2026-03-08 14:00:00.900615,Hyderabad,4,Kukatpally,221
+2026-03-08 14:00:00.900615,Hyderabad,3,Secunderabad,216
+2026-03-08 14:00:00.900615,Hyderabad,2,Hitech City,229
+2026-03-08 14:00:00.900615,Hyderabad,1,Gachibowli,203
+2026-03-08 15:00:00.900615,Hyderabad,1,Gachibowli,219
+2026-03-08 15:00:00.900615,Hyderabad,2,Hitech City,224
+2026-03-08 15:00:00.900615,Hyderabad,3,Secunderabad,227
+2026-03-08 15:00:00.900615,Hyderabad,4,Kukatpally,236
+2026-03-08 16:00:00.900615,Hyderabad,1,Gachibowli,292
+2026-03-08 16:00:00.900615,Hyderabad,2,Hitech City,268
+2026-03-08 16:00:00.900615,Hyderabad,3,Secunderabad,288
+2026-03-08 16:00:00.900615,Hyderabad,4,Kukatpally,278
+2026-03-08 17:00:00.900615,Hyderabad,4,Kukatpally,350
+2026-03-08 17:00:00.900615,Hyderabad,3,Secunderabad,347
+2026-03-08 17:00:00.900615,Hyderabad,2,Hitech City,354
+2026-03-08 17:00:00.900615,Hyderabad,1,Gachibowli,342
+2026-03-08 18:00:00.900615,Hyderabad,1,Gachibowli,343
+2026-03-08 18:00:00.900615,Hyderabad,2,Hitech City,333
+2026-03-08 18:00:00.900615,Hyderabad,3,Secunderabad,356
+2026-03-08 18:00:00.900615,Hyderabad,4,Kukatpally,332
+2026-03-08 19:00:00.900615,Hyderabad,1,Gachibowli,249
+2026-03-08 19:00:00.900615,Hyderabad,2,Hitech City,245
+2026-03-08 19:00:00.900615,Hyderabad,3,Secunderabad,227
+2026-03-08 19:00:00.900615,Hyderabad,4,Kukatpally,238
+2026-03-08 20:00:00.900615,Hyderabad,4,Kukatpally,207
+2026-03-08 20:00:00.900615,Hyderabad,3,Secunderabad,216
+2026-03-08 20:00:00.900615,Hyderabad,2,Hitech City,177
+2026-03-08 20:00:00.900615,Hyderabad,1,Gachibowli,216
+2026-03-08 21:00:00.900615,Hyderabad,1,Gachibowli,159
+2026-03-08 21:00:00.900615,Hyderabad,2,Hitech City,142
+2026-03-08 21:00:00.900615,Hyderabad,3,Secunderabad,123
+2026-03-08 21:00:00.900615,Hyderabad,4,Kukatpally,125
+2026-03-08 22:00:00.900615,Hyderabad,1,Gachibowli,78
+2026-03-08 22:00:00.900615,Hyderabad,2,Hitech City,97
+2026-03-08 22:00:00.900615,Hyderabad,3,Secunderabad,65
+2026-03-08 22:00:00.900615,Hyderabad,4,Kukatpally,89
+2026-03-08 23:00:00.900615,Hyderabad,4,Kukatpally,58
+2026-03-08 23:00:00.900615,Hyderabad,3,Secunderabad,55
+2026-03-08 23:00:00.900615,Hyderabad,1,Gachibowli,33
+2026-03-08 23:00:00.900615,Hyderabad,2,Hitech City,61
+2026-03-09 00:00:00.900615,Hyderabad,1,Gachibowli,38
+2026-03-09 00:00:00.900615,Hyderabad,2,Hitech City,23
+2026-03-09 00:00:00.900615,Hyderabad,3,Secunderabad,22
+2026-03-09 00:00:00.900615,Hyderabad,4,Kukatpally,52
+2026-03-09 01:00:00.900615,Hyderabad,1,Gachibowli,41
+2026-03-09 01:00:00.900615,Hyderabad,2,Hitech City,14
+2026-03-09 01:00:00.900615,Hyderabad,3,Secunderabad,35
+2026-03-09 01:00:00.900615,Hyderabad,4,Kukatpally,18
+2026-03-09 02:00:00.900615,Hyderabad,4,Kukatpally,38
+2026-03-09 02:00:00.900615,Hyderabad,3,Secunderabad,39
+2026-03-09 02:00:00.900615,Hyderabad,1,Gachibowli,22
+2026-03-09 02:00:00.900615,Hyderabad,2,Hitech City,27
+2026-03-09 03:00:00.900615,Hyderabad,1,Gachibowli,39
+2026-03-09 03:00:00.900615,Hyderabad,2,Hitech City,11
+2026-03-09 03:00:00.900615,Hyderabad,3,Secunderabad,15
+2026-03-09 03:00:00.900615,Hyderabad,4,Kukatpally,18
+2026-03-09 04:00:00.900615,Hyderabad,4,Kukatpally,18
+2026-03-09 04:00:00.900615,Hyderabad,1,Gachibowli,11
+2026-03-09 04:00:00.900615,Hyderabad,2,Hitech City,34
+2026-03-09 04:00:00.900615,Hyderabad,3,Secunderabad,38
+2026-03-09 05:00:00.900615,Hyderabad,4,Kukatpally,36
+2026-03-09 05:00:00.900615,Hyderabad,3,Secunderabad,41
+2026-03-09 05:00:00.900615,Hyderabad,2,Hitech City,42
+2026-03-09 05:00:00.900615,Hyderabad,1,Gachibowli,60
+2026-03-09 06:00:00.900615,Hyderabad,1,Gachibowli,70
+2026-03-09 06:00:00.900615,Hyderabad,2,Hitech City,92
+2026-03-09 06:00:00.900615,Hyderabad,3,Secunderabad,96
+2026-03-09 06:00:00.900615,Hyderabad,4,Kukatpally,62
+2026-03-09 07:00:00.900615,Hyderabad,1,Gachibowli,295
+2026-03-09 07:00:00.900615,Hyderabad,2,Hitech City,320
+2026-03-09 07:00:00.900615,Hyderabad,3,Secunderabad,292
+2026-03-09 07:00:00.900615,Hyderabad,4,Kukatpally,310
+2026-03-09 08:00:00.900615,Hyderabad,4,Kukatpally,400
+2026-03-09 08:00:00.900615,Hyderabad,3,Secunderabad,405
+2026-03-09 08:00:00.900615,Hyderabad,2,Hitech City,425
+2026-03-09 08:00:00.900615,Hyderabad,1,Gachibowli,409
+2026-03-09 09:00:00.900615,Hyderabad,1,Gachibowli,376
+2026-03-09 09:00:00.900615,Hyderabad,2,Hitech City,361
+2026-03-09 09:00:00.900615,Hyderabad,3,Secunderabad,374
+2026-03-09 09:00:00.900615,Hyderabad,4,Kukatpally,377
+2026-03-09 10:00:00.900615,Hyderabad,1,Gachibowli,277
+2026-03-09 10:00:00.900615,Hyderabad,2,Hitech City,279
+2026-03-09 10:00:00.900615,Hyderabad,3,Secunderabad,272
+2026-03-09 10:00:00.900615,Hyderabad,4,Kukatpally,279
+2026-03-09 11:00:00.900615,Hyderabad,4,Kukatpally,292
+2026-03-09 11:00:00.900615,Hyderabad,3,Secunderabad,315
+2026-03-09 11:00:00.900615,Hyderabad,1,Gachibowli,292
+2026-03-09 11:00:00.900615,Hyderabad,2,Hitech City,293
+2026-03-09 12:00:00.900615,Hyderabad,1,Gachibowli,360
+2026-03-09 12:00:00.900615,Hyderabad,2,Hitech City,334
+2026-03-09 12:00:00.900615,Hyderabad,3,Secunderabad,355
+2026-03-09 12:00:00.900615,Hyderabad,4,Kukatpally,354
+2026-03-09 13:00:00.900615,Hyderabad,1,Gachibowli,323
+2026-03-09 13:00:00.900615,Hyderabad,2,Hitech City,320
+2026-03-09 13:00:00.900615,Hyderabad,3,Secunderabad,302
+2026-03-09 13:00:00.900615,Hyderabad,4,Kukatpally,335
+2026-03-09 14:00:00.900615,Hyderabad,4,Kukatpally,316
+2026-03-09 14:00:00.900615,Hyderabad,3,Secunderabad,320
+2026-03-09 14:00:00.900615,Hyderabad,1,Gachibowli,313
+2026-03-09 14:00:00.900615,Hyderabad,2,Hitech City,314
+2026-03-09 15:00:00.900615,Hyderabad,1,Gachibowli,336
+2026-03-09 15:00:00.900615,Hyderabad,2,Hitech City,336
+2026-03-09 15:00:00.900615,Hyderabad,3,Secunderabad,350
+2026-03-09 15:00:00.900615,Hyderabad,4,Kukatpally,314
+2026-03-09 16:00:00.900615,Hyderabad,1,Gachibowli,419
+2026-03-09 16:00:00.900615,Hyderabad,2,Hitech City,383
+2026-03-09 16:00:00.900615,Hyderabad,3,Secunderabad,390
+2026-03-09 16:00:00.900615,Hyderabad,4,Kukatpally,412
+2026-03-09 17:00:00.900615,Hyderabad,4,Kukatpally,502
+2026-03-09 17:00:00.900615,Hyderabad,3,Secunderabad,518
+2026-03-09 17:00:00.900615,Hyderabad,1,Gachibowli,503
+2026-03-09 17:00:00.900615,Hyderabad,2,Hitech City,515
+2026-03-09 18:00:00.900615,Hyderabad,1,Gachibowli,489
+2026-03-09 18:00:00.900615,Hyderabad,2,Hitech City,467
+2026-03-09 18:00:00.900615,Hyderabad,3,Secunderabad,496
+2026-03-09 18:00:00.900615,Hyderabad,4,Kukatpally,480
+2026-03-09 19:00:00.900615,Hyderabad,1,Gachibowli,333
+2026-03-09 19:00:00.900615,Hyderabad,2,Hitech City,330
+2026-03-09 19:00:00.900615,Hyderabad,3,Secunderabad,342
+2026-03-09 19:00:00.900615,Hyderabad,4,Kukatpally,354
+2026-03-09 20:00:00.900615,Hyderabad,4,Kukatpally,289
+2026-03-09 20:00:00.900615,Hyderabad,3,Secunderabad,299
+2026-03-09 20:00:00.900615,Hyderabad,1,Gachibowli,293
+2026-03-09 20:00:00.900615,Hyderabad,2,Hitech City,290
+2026-03-09 21:00:00.900615,Hyderabad,1,Gachibowli,204
+2026-03-09 21:00:00.900615,Hyderabad,2,Hitech City,205
+2026-03-09 21:00:00.900615,Hyderabad,3,Secunderabad,180
+2026-03-09 21:00:00.900615,Hyderabad,4,Kukatpally,203
+2026-03-09 22:00:00.900615,Hyderabad,1,Gachibowli,140
+2026-03-09 22:00:00.900615,Hyderabad,2,Hitech City,137
+2026-03-09 22:00:00.900615,Hyderabad,3,Secunderabad,129
+2026-03-09 22:00:00.900615,Hyderabad,4,Kukatpally,115
+2026-03-09 23:00:00.900615,Hyderabad,3,Secunderabad,65
+2026-03-09 23:00:00.900615,Hyderabad,1,Gachibowli,43
+2026-03-09 23:00:00.900615,Hyderabad,2,Hitech City,77
+2026-03-09 23:00:00.900615,Hyderabad,4,Kukatpally,42

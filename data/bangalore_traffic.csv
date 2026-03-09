@@ -1,0 +1,769 @@
+datetime,city,junction_id,junction_name,vehicle_count
+2026-03-02 00:00:00.580880,Bangalore,1,Whitefield,24
+2026-03-02 00:00:00.580880,Bangalore,2,Koramangala,47
+2026-03-02 00:00:00.580880,Bangalore,3,IndiranagAr,45
+2026-03-02 00:00:00.580880,Bangalore,4,MG Road,35
+2026-03-02 01:00:00.580880,Bangalore,1,Whitefield,22
+2026-03-02 01:00:00.580880,Bangalore,2,Koramangala,10
+2026-03-02 01:00:00.580880,Bangalore,3,IndiranagAr,12
+2026-03-02 01:00:00.580880,Bangalore,4,MG Road,26
+2026-03-02 02:00:00.580880,Bangalore,4,MG Road,13
+2026-03-02 02:00:00.580880,Bangalore,3,IndiranagAr,30
+2026-03-02 02:00:00.580880,Bangalore,1,Whitefield,13
+2026-03-02 02:00:00.580880,Bangalore,2,Koramangala,25
+2026-03-02 03:00:00.580880,Bangalore,1,Whitefield,15
+2026-03-02 03:00:00.580880,Bangalore,2,Koramangala,30
+2026-03-02 03:00:00.580880,Bangalore,3,IndiranagAr,11
+2026-03-02 03:00:00.580880,Bangalore,4,MG Road,11
+2026-03-02 04:00:00.580880,Bangalore,4,MG Road,36
+2026-03-02 04:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-02 04:00:00.580880,Bangalore,2,Koramangala,15
+2026-03-02 04:00:00.580880,Bangalore,3,IndiranagAr,36
+2026-03-02 05:00:00.580880,Bangalore,4,MG Road,28
+2026-03-02 05:00:00.580880,Bangalore,3,IndiranagAr,56
+2026-03-02 05:00:00.580880,Bangalore,1,Whitefield,20
+2026-03-02 05:00:00.580880,Bangalore,2,Koramangala,25
+2026-03-02 06:00:00.580880,Bangalore,1,Whitefield,99
+2026-03-02 06:00:00.580880,Bangalore,2,Koramangala,77
+2026-03-02 06:00:00.580880,Bangalore,3,IndiranagAr,99
+2026-03-02 06:00:00.580880,Bangalore,4,MG Road,81
+2026-03-02 07:00:00.580880,Bangalore,4,MG Road,315
+2026-03-02 07:00:00.580880,Bangalore,1,Whitefield,294
+2026-03-02 07:00:00.580880,Bangalore,2,Koramangala,281
+2026-03-02 07:00:00.580880,Bangalore,3,IndiranagAr,313
+2026-03-02 08:00:00.580880,Bangalore,4,MG Road,402
+2026-03-02 08:00:00.580880,Bangalore,3,IndiranagAr,424
+2026-03-02 08:00:00.580880,Bangalore,2,Koramangala,428
+2026-03-02 08:00:00.580880,Bangalore,1,Whitefield,418
+2026-03-02 09:00:00.580880,Bangalore,4,MG Road,372
+2026-03-02 09:00:00.580880,Bangalore,1,Whitefield,396
+2026-03-02 09:00:00.580880,Bangalore,2,Koramangala,396
+2026-03-02 09:00:00.580880,Bangalore,3,IndiranagAr,399
+2026-03-02 10:00:00.580880,Bangalore,3,IndiranagAr,293
+2026-03-02 10:00:00.580880,Bangalore,4,MG Road,277
+2026-03-02 10:00:00.580880,Bangalore,1,Whitefield,266
+2026-03-02 10:00:00.580880,Bangalore,2,Koramangala,279
+2026-03-02 11:00:00.580880,Bangalore,4,MG Road,300
+2026-03-02 11:00:00.580880,Bangalore,3,IndiranagAr,304
+2026-03-02 11:00:00.580880,Bangalore,2,Koramangala,303
+2026-03-02 11:00:00.580880,Bangalore,1,Whitefield,305
+2026-03-02 12:00:00.580880,Bangalore,1,Whitefield,344
+2026-03-02 12:00:00.580880,Bangalore,2,Koramangala,343
+2026-03-02 12:00:00.580880,Bangalore,3,IndiranagAr,345
+2026-03-02 12:00:00.580880,Bangalore,4,MG Road,320
+2026-03-02 13:00:00.580880,Bangalore,1,Whitefield,328
+2026-03-02 13:00:00.580880,Bangalore,2,Koramangala,322
+2026-03-02 13:00:00.580880,Bangalore,3,IndiranagAr,314
+2026-03-02 13:00:00.580880,Bangalore,4,MG Road,337
+2026-03-02 14:00:00.580880,Bangalore,4,MG Road,307
+2026-03-02 14:00:00.580880,Bangalore,3,IndiranagAr,323
+2026-03-02 14:00:00.580880,Bangalore,2,Koramangala,322
+2026-03-02 14:00:00.580880,Bangalore,1,Whitefield,301
+2026-03-02 15:00:00.580880,Bangalore,1,Whitefield,316
+2026-03-02 15:00:00.580880,Bangalore,2,Koramangala,338
+2026-03-02 15:00:00.580880,Bangalore,3,IndiranagAr,331
+2026-03-02 15:00:00.580880,Bangalore,4,MG Road,346
+2026-03-02 16:00:00.580880,Bangalore,1,Whitefield,406
+2026-03-02 16:00:00.580880,Bangalore,2,Koramangala,419
+2026-03-02 16:00:00.580880,Bangalore,3,IndiranagAr,413
+2026-03-02 16:00:00.580880,Bangalore,4,MG Road,383
+2026-03-02 17:00:00.580880,Bangalore,4,MG Road,497
+2026-03-02 17:00:00.580880,Bangalore,3,IndiranagAr,516
+2026-03-02 17:00:00.580880,Bangalore,2,Koramangala,489
+2026-03-02 17:00:00.580880,Bangalore,1,Whitefield,504
+2026-03-02 18:00:00.580880,Bangalore,1,Whitefield,474
+2026-03-02 18:00:00.580880,Bangalore,2,Koramangala,462
+2026-03-02 18:00:00.580880,Bangalore,3,IndiranagAr,488
+2026-03-02 18:00:00.580880,Bangalore,4,MG Road,460
+2026-03-02 19:00:00.580880,Bangalore,4,MG Road,356
+2026-03-02 19:00:00.580880,Bangalore,1,Whitefield,367
+2026-03-02 19:00:00.580880,Bangalore,2,Koramangala,360
+2026-03-02 19:00:00.580880,Bangalore,3,IndiranagAr,368
+2026-03-02 20:00:00.580880,Bangalore,1,Whitefield,285
+2026-03-02 20:00:00.580880,Bangalore,2,Koramangala,294
+2026-03-02 20:00:00.580880,Bangalore,3,IndiranagAr,289
+2026-03-02 20:00:00.580880,Bangalore,4,MG Road,275
+2026-03-02 21:00:00.580880,Bangalore,3,IndiranagAr,208
+2026-03-02 21:00:00.580880,Bangalore,4,MG Road,203
+2026-03-02 21:00:00.580880,Bangalore,1,Whitefield,204
+2026-03-02 21:00:00.580880,Bangalore,2,Koramangala,201
+2026-03-02 22:00:00.580880,Bangalore,3,IndiranagAr,133
+2026-03-02 22:00:00.580880,Bangalore,4,MG Road,132
+2026-03-02 22:00:00.580880,Bangalore,1,Whitefield,123
+2026-03-02 22:00:00.580880,Bangalore,2,Koramangala,115
+2026-03-02 23:00:00.580880,Bangalore,4,MG Road,64
+2026-03-02 23:00:00.580880,Bangalore,3,IndiranagAr,58
+2026-03-02 23:00:00.580880,Bangalore,2,Koramangala,60
+2026-03-02 23:00:00.580880,Bangalore,1,Whitefield,73
+2026-03-03 00:00:00.580880,Bangalore,1,Whitefield,42
+2026-03-03 00:00:00.580880,Bangalore,2,Koramangala,26
+2026-03-03 00:00:00.580880,Bangalore,3,IndiranagAr,53
+2026-03-03 00:00:00.580880,Bangalore,4,MG Road,35
+2026-03-03 01:00:00.580880,Bangalore,1,Whitefield,40
+2026-03-03 01:00:00.580880,Bangalore,2,Koramangala,16
+2026-03-03 01:00:00.580880,Bangalore,3,IndiranagAr,29
+2026-03-03 01:00:00.580880,Bangalore,4,MG Road,10
+2026-03-03 02:00:00.580880,Bangalore,4,MG Road,34
+2026-03-03 02:00:00.580880,Bangalore,3,IndiranagAr,35
+2026-03-03 02:00:00.580880,Bangalore,2,Koramangala,10
+2026-03-03 02:00:00.580880,Bangalore,1,Whitefield,12
+2026-03-03 03:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-03 03:00:00.580880,Bangalore,2,Koramangala,26
+2026-03-03 03:00:00.580880,Bangalore,3,IndiranagAr,10
+2026-03-03 03:00:00.580880,Bangalore,4,MG Road,12
+2026-03-03 04:00:00.580880,Bangalore,1,Whitefield,24
+2026-03-03 04:00:00.580880,Bangalore,2,Koramangala,14
+2026-03-03 04:00:00.580880,Bangalore,3,IndiranagAr,21
+2026-03-03 04:00:00.580880,Bangalore,4,MG Road,12
+2026-03-03 05:00:00.580880,Bangalore,4,MG Road,42
+2026-03-03 05:00:00.580880,Bangalore,3,IndiranagAr,45
+2026-03-03 05:00:00.580880,Bangalore,2,Koramangala,22
+2026-03-03 05:00:00.580880,Bangalore,1,Whitefield,40
+2026-03-03 06:00:00.580880,Bangalore,1,Whitefield,73
+2026-03-03 06:00:00.580880,Bangalore,2,Koramangala,71
+2026-03-03 06:00:00.580880,Bangalore,3,IndiranagAr,86
+2026-03-03 06:00:00.580880,Bangalore,4,MG Road,77
+2026-03-03 07:00:00.580880,Bangalore,1,Whitefield,293
+2026-03-03 07:00:00.580880,Bangalore,2,Koramangala,287
+2026-03-03 07:00:00.580880,Bangalore,3,IndiranagAr,303
+2026-03-03 07:00:00.580880,Bangalore,4,MG Road,281
+2026-03-03 08:00:00.580880,Bangalore,4,MG Road,407
+2026-03-03 08:00:00.580880,Bangalore,3,IndiranagAr,425
+2026-03-03 08:00:00.580880,Bangalore,1,Whitefield,401
+2026-03-03 08:00:00.580880,Bangalore,2,Koramangala,407
+2026-03-03 09:00:00.580880,Bangalore,1,Whitefield,363
+2026-03-03 09:00:00.580880,Bangalore,2,Koramangala,385
+2026-03-03 09:00:00.580880,Bangalore,3,IndiranagAr,360
+2026-03-03 09:00:00.580880,Bangalore,4,MG Road,399
+2026-03-03 10:00:00.580880,Bangalore,1,Whitefield,294
+2026-03-03 10:00:00.580880,Bangalore,2,Koramangala,294
+2026-03-03 10:00:00.580880,Bangalore,3,IndiranagAr,290
+2026-03-03 10:00:00.580880,Bangalore,4,MG Road,275
+2026-03-03 11:00:00.580880,Bangalore,3,IndiranagAr,307
+2026-03-03 11:00:00.580880,Bangalore,4,MG Road,303
+2026-03-03 11:00:00.580880,Bangalore,2,Koramangala,291
+2026-03-03 11:00:00.580880,Bangalore,1,Whitefield,311
+2026-03-03 12:00:00.580880,Bangalore,1,Whitefield,326
+2026-03-03 12:00:00.580880,Bangalore,2,Koramangala,345
+2026-03-03 12:00:00.580880,Bangalore,3,IndiranagAr,322
+2026-03-03 12:00:00.580880,Bangalore,4,MG Road,327
+2026-03-03 13:00:00.580880,Bangalore,4,MG Road,305
+2026-03-03 13:00:00.580880,Bangalore,1,Whitefield,326
+2026-03-03 13:00:00.580880,Bangalore,2,Koramangala,307
+2026-03-03 13:00:00.580880,Bangalore,3,IndiranagAr,307
+2026-03-03 14:00:00.580880,Bangalore,4,MG Road,326
+2026-03-03 14:00:00.580880,Bangalore,3,IndiranagAr,326
+2026-03-03 14:00:00.580880,Bangalore,1,Whitefield,321
+2026-03-03 14:00:00.580880,Bangalore,2,Koramangala,305
+2026-03-03 15:00:00.580880,Bangalore,3,IndiranagAr,337
+2026-03-03 15:00:00.580880,Bangalore,1,Whitefield,331
+2026-03-03 15:00:00.580880,Bangalore,2,Koramangala,321
+2026-03-03 15:00:00.580880,Bangalore,4,MG Road,343
+2026-03-03 16:00:00.580880,Bangalore,4,MG Road,394
+2026-03-03 16:00:00.580880,Bangalore,3,IndiranagAr,400
+2026-03-03 16:00:00.580880,Bangalore,2,Koramangala,402
+2026-03-03 16:00:00.580880,Bangalore,1,Whitefield,385
+2026-03-03 17:00:00.580880,Bangalore,1,Whitefield,502
+2026-03-03 17:00:00.580880,Bangalore,2,Koramangala,512
+2026-03-03 17:00:00.580880,Bangalore,3,IndiranagAr,518
+2026-03-03 17:00:00.580880,Bangalore,4,MG Road,513
+2026-03-03 18:00:00.580880,Bangalore,3,IndiranagAr,482
+2026-03-03 18:00:00.580880,Bangalore,4,MG Road,485
+2026-03-03 18:00:00.580880,Bangalore,1,Whitefield,496
+2026-03-03 18:00:00.580880,Bangalore,2,Koramangala,465
+2026-03-03 19:00:00.580880,Bangalore,1,Whitefield,356
+2026-03-03 19:00:00.580880,Bangalore,2,Koramangala,332
+2026-03-03 19:00:00.580880,Bangalore,3,IndiranagAr,356
+2026-03-03 19:00:00.580880,Bangalore,4,MG Road,352
+2026-03-03 20:00:00.580880,Bangalore,4,MG Road,292
+2026-03-03 20:00:00.580880,Bangalore,1,Whitefield,299
+2026-03-03 20:00:00.580880,Bangalore,2,Koramangala,280
+2026-03-03 20:00:00.580880,Bangalore,3,IndiranagAr,272
+2026-03-03 21:00:00.580880,Bangalore,3,IndiranagAr,181
+2026-03-03 21:00:00.580880,Bangalore,4,MG Road,202
+2026-03-03 21:00:00.580880,Bangalore,1,Whitefield,197
+2026-03-03 21:00:00.580880,Bangalore,2,Koramangala,210
+2026-03-03 22:00:00.580880,Bangalore,3,IndiranagAr,104
+2026-03-03 22:00:00.580880,Bangalore,4,MG Road,108
+2026-03-03 22:00:00.580880,Bangalore,1,Whitefield,100
+2026-03-03 22:00:00.580880,Bangalore,2,Koramangala,100
+2026-03-03 23:00:00.580880,Bangalore,4,MG Road,59
+2026-03-03 23:00:00.580880,Bangalore,3,IndiranagAr,63
+2026-03-03 23:00:00.580880,Bangalore,2,Koramangala,44
+2026-03-03 23:00:00.580880,Bangalore,1,Whitefield,77
+2026-03-04 00:00:00.580880,Bangalore,1,Whitefield,49
+2026-03-04 00:00:00.580880,Bangalore,2,Koramangala,20
+2026-03-04 00:00:00.580880,Bangalore,3,IndiranagAr,38
+2026-03-04 00:00:00.580880,Bangalore,4,MG Road,53
+2026-03-04 01:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-04 01:00:00.580880,Bangalore,2,Koramangala,24
+2026-03-04 01:00:00.580880,Bangalore,3,IndiranagAr,18
+2026-03-04 01:00:00.580880,Bangalore,4,MG Road,19
+2026-03-04 02:00:00.580880,Bangalore,4,MG Road,20
+2026-03-04 02:00:00.580880,Bangalore,3,IndiranagAr,38
+2026-03-04 02:00:00.580880,Bangalore,2,Koramangala,23
+2026-03-04 02:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-04 03:00:00.580880,Bangalore,1,Whitefield,15
+2026-03-04 03:00:00.580880,Bangalore,2,Koramangala,19
+2026-03-04 03:00:00.580880,Bangalore,3,IndiranagAr,10
+2026-03-04 03:00:00.580880,Bangalore,4,MG Road,29
+2026-03-04 04:00:00.580880,Bangalore,1,Whitefield,11
+2026-03-04 04:00:00.580880,Bangalore,2,Koramangala,15
+2026-03-04 04:00:00.580880,Bangalore,3,IndiranagAr,15
+2026-03-04 04:00:00.580880,Bangalore,4,MG Road,30
+2026-03-04 05:00:00.580880,Bangalore,4,MG Road,31
+2026-03-04 05:00:00.580880,Bangalore,3,IndiranagAr,50
+2026-03-04 05:00:00.580880,Bangalore,2,Koramangala,29
+2026-03-04 05:00:00.580880,Bangalore,1,Whitefield,34
+2026-03-04 06:00:00.580880,Bangalore,1,Whitefield,90
+2026-03-04 06:00:00.580880,Bangalore,2,Koramangala,61
+2026-03-04 06:00:00.580880,Bangalore,3,IndiranagAr,75
+2026-03-04 06:00:00.580880,Bangalore,4,MG Road,86
+2026-03-04 07:00:00.580880,Bangalore,1,Whitefield,308
+2026-03-04 07:00:00.580880,Bangalore,2,Koramangala,285
+2026-03-04 07:00:00.580880,Bangalore,3,IndiranagAr,295
+2026-03-04 07:00:00.580880,Bangalore,4,MG Road,292
+2026-03-04 08:00:00.580880,Bangalore,4,MG Road,432
+2026-03-04 08:00:00.580880,Bangalore,3,IndiranagAr,432
+2026-03-04 08:00:00.580880,Bangalore,1,Whitefield,402
+2026-03-04 08:00:00.580880,Bangalore,2,Koramangala,433
+2026-03-04 09:00:00.580880,Bangalore,1,Whitefield,384
+2026-03-04 09:00:00.580880,Bangalore,2,Koramangala,366
+2026-03-04 09:00:00.580880,Bangalore,3,IndiranagAr,362
+2026-03-04 09:00:00.580880,Bangalore,4,MG Road,393
+2026-03-04 10:00:00.580880,Bangalore,1,Whitefield,279
+2026-03-04 10:00:00.580880,Bangalore,2,Koramangala,300
+2026-03-04 10:00:00.580880,Bangalore,3,IndiranagAr,298
+2026-03-04 10:00:00.580880,Bangalore,4,MG Road,276
+2026-03-04 11:00:00.580880,Bangalore,4,MG Road,317
+2026-03-04 11:00:00.580880,Bangalore,3,IndiranagAr,305
+2026-03-04 11:00:00.580880,Bangalore,2,Koramangala,312
+2026-03-04 11:00:00.580880,Bangalore,1,Whitefield,314
+2026-03-04 12:00:00.580880,Bangalore,1,Whitefield,358
+2026-03-04 12:00:00.580880,Bangalore,2,Koramangala,358
+2026-03-04 12:00:00.580880,Bangalore,3,IndiranagAr,342
+2026-03-04 12:00:00.580880,Bangalore,4,MG Road,323
+2026-03-04 13:00:00.580880,Bangalore,1,Whitefield,311
+2026-03-04 13:00:00.580880,Bangalore,2,Koramangala,328
+2026-03-04 13:00:00.580880,Bangalore,3,IndiranagAr,332
+2026-03-04 13:00:00.580880,Bangalore,4,MG Road,318
+2026-03-04 14:00:00.580880,Bangalore,4,MG Road,318
+2026-03-04 14:00:00.580880,Bangalore,3,IndiranagAr,307
+2026-03-04 14:00:00.580880,Bangalore,2,Koramangala,328
+2026-03-04 14:00:00.580880,Bangalore,1,Whitefield,315
+2026-03-04 15:00:00.580880,Bangalore,1,Whitefield,333
+2026-03-04 15:00:00.580880,Bangalore,2,Koramangala,318
+2026-03-04 15:00:00.580880,Bangalore,3,IndiranagAr,336
+2026-03-04 15:00:00.580880,Bangalore,4,MG Road,327
+2026-03-04 16:00:00.580880,Bangalore,1,Whitefield,392
+2026-03-04 16:00:00.580880,Bangalore,2,Koramangala,417
+2026-03-04 16:00:00.580880,Bangalore,3,IndiranagAr,413
+2026-03-04 16:00:00.580880,Bangalore,4,MG Road,397
+2026-03-04 17:00:00.580880,Bangalore,4,MG Road,501
+2026-03-04 17:00:00.580880,Bangalore,3,IndiranagAr,483
+2026-03-04 17:00:00.580880,Bangalore,1,Whitefield,516
+2026-03-04 17:00:00.580880,Bangalore,2,Koramangala,516
+2026-03-04 18:00:00.580880,Bangalore,1,Whitefield,479
+2026-03-04 18:00:00.580880,Bangalore,2,Koramangala,466
+2026-03-04 18:00:00.580880,Bangalore,3,IndiranagAr,468
+2026-03-04 18:00:00.580880,Bangalore,4,MG Road,479
+2026-03-04 19:00:00.580880,Bangalore,4,MG Road,336
+2026-03-04 19:00:00.580880,Bangalore,1,Whitefield,337
+2026-03-04 19:00:00.580880,Bangalore,2,Koramangala,354
+2026-03-04 19:00:00.580880,Bangalore,3,IndiranagAr,332
+2026-03-04 20:00:00.580880,Bangalore,4,MG Road,264
+2026-03-04 20:00:00.580880,Bangalore,3,IndiranagAr,298
+2026-03-04 20:00:00.580880,Bangalore,2,Koramangala,276
+2026-03-04 20:00:00.580880,Bangalore,1,Whitefield,295
+2026-03-04 21:00:00.580880,Bangalore,4,MG Road,190
+2026-03-04 21:00:00.580880,Bangalore,1,Whitefield,197
+2026-03-04 21:00:00.580880,Bangalore,2,Koramangala,214
+2026-03-04 21:00:00.580880,Bangalore,3,IndiranagAr,215
+2026-03-04 22:00:00.580880,Bangalore,3,IndiranagAr,137
+2026-03-04 22:00:00.580880,Bangalore,4,MG Road,106
+2026-03-04 22:00:00.580880,Bangalore,1,Whitefield,120
+2026-03-04 22:00:00.580880,Bangalore,2,Koramangala,125
+2026-03-04 23:00:00.580880,Bangalore,4,MG Road,44
+2026-03-04 23:00:00.580880,Bangalore,3,IndiranagAr,57
+2026-03-04 23:00:00.580880,Bangalore,2,Koramangala,72
+2026-03-04 23:00:00.580880,Bangalore,1,Whitefield,69
+2026-03-05 00:00:00.580880,Bangalore,1,Whitefield,25
+2026-03-05 00:00:00.580880,Bangalore,2,Koramangala,34
+2026-03-05 00:00:00.580880,Bangalore,3,IndiranagAr,43
+2026-03-05 00:00:00.580880,Bangalore,4,MG Road,28
+2026-03-05 01:00:00.580880,Bangalore,4,MG Road,10
+2026-03-05 01:00:00.580880,Bangalore,1,Whitefield,41
+2026-03-05 01:00:00.580880,Bangalore,2,Koramangala,17
+2026-03-05 01:00:00.580880,Bangalore,3,IndiranagAr,10
+2026-03-05 02:00:00.580880,Bangalore,4,MG Road,10
+2026-03-05 02:00:00.580880,Bangalore,3,IndiranagAr,40
+2026-03-05 02:00:00.580880,Bangalore,1,Whitefield,15
+2026-03-05 02:00:00.580880,Bangalore,2,Koramangala,17
+2026-03-05 03:00:00.580880,Bangalore,4,MG Road,37
+2026-03-05 03:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-05 03:00:00.580880,Bangalore,2,Koramangala,23
+2026-03-05 03:00:00.580880,Bangalore,3,IndiranagAr,30
+2026-03-05 04:00:00.580880,Bangalore,3,IndiranagAr,28
+2026-03-05 04:00:00.580880,Bangalore,4,MG Road,32
+2026-03-05 04:00:00.580880,Bangalore,1,Whitefield,31
+2026-03-05 04:00:00.580880,Bangalore,2,Koramangala,23
+2026-03-05 05:00:00.580880,Bangalore,4,MG Road,40
+2026-03-05 05:00:00.580880,Bangalore,3,IndiranagAr,22
+2026-03-05 05:00:00.580880,Bangalore,1,Whitefield,23
+2026-03-05 05:00:00.580880,Bangalore,2,Koramangala,49
+2026-03-05 06:00:00.580880,Bangalore,1,Whitefield,100
+2026-03-05 06:00:00.580880,Bangalore,2,Koramangala,92
+2026-03-05 06:00:00.580880,Bangalore,3,IndiranagAr,80
+2026-03-05 06:00:00.580880,Bangalore,4,MG Road,85
+2026-03-05 07:00:00.580880,Bangalore,4,MG Road,296
+2026-03-05 07:00:00.580880,Bangalore,1,Whitefield,311
+2026-03-05 07:00:00.580880,Bangalore,2,Koramangala,305
+2026-03-05 07:00:00.580880,Bangalore,3,IndiranagAr,320
+2026-03-05 08:00:00.580880,Bangalore,1,Whitefield,439
+2026-03-05 08:00:00.580880,Bangalore,2,Koramangala,427
+2026-03-05 08:00:00.580880,Bangalore,3,IndiranagAr,433
+2026-03-05 08:00:00.580880,Bangalore,4,MG Road,411
+2026-03-05 09:00:00.580880,Bangalore,2,Koramangala,372
+2026-03-05 09:00:00.580880,Bangalore,3,IndiranagAr,394
+2026-03-05 09:00:00.580880,Bangalore,1,Whitefield,364
+2026-03-05 09:00:00.580880,Bangalore,4,MG Road,378
+2026-03-05 10:00:00.580880,Bangalore,4,MG Road,298
+2026-03-05 10:00:00.580880,Bangalore,3,IndiranagAr,288
+2026-03-05 10:00:00.580880,Bangalore,2,Koramangala,277
+2026-03-05 10:00:00.580880,Bangalore,1,Whitefield,299
+2026-03-05 11:00:00.580880,Bangalore,1,Whitefield,291
+2026-03-05 11:00:00.580880,Bangalore,2,Koramangala,317
+2026-03-05 11:00:00.580880,Bangalore,3,IndiranagAr,292
+2026-03-05 11:00:00.580880,Bangalore,4,MG Road,297
+2026-03-05 12:00:00.580880,Bangalore,3,IndiranagAr,345
+2026-03-05 12:00:00.580880,Bangalore,4,MG Road,328
+2026-03-05 12:00:00.580880,Bangalore,1,Whitefield,357
+2026-03-05 12:00:00.580880,Bangalore,2,Koramangala,358
+2026-03-05 13:00:00.580880,Bangalore,1,Whitefield,317
+2026-03-05 13:00:00.580880,Bangalore,2,Koramangala,336
+2026-03-05 13:00:00.580880,Bangalore,3,IndiranagAr,315
+2026-03-05 13:00:00.580880,Bangalore,4,MG Road,320
+2026-03-05 14:00:00.580880,Bangalore,4,MG Road,301
+2026-03-05 14:00:00.580880,Bangalore,1,Whitefield,324
+2026-03-05 14:00:00.580880,Bangalore,2,Koramangala,308
+2026-03-05 14:00:00.580880,Bangalore,3,IndiranagAr,325
+2026-03-05 15:00:00.580880,Bangalore,3,IndiranagAr,348
+2026-03-05 15:00:00.580880,Bangalore,4,MG Road,334
+2026-03-05 15:00:00.580880,Bangalore,1,Whitefield,348
+2026-03-05 15:00:00.580880,Bangalore,2,Koramangala,334
+2026-03-05 16:00:00.580880,Bangalore,1,Whitefield,390
+2026-03-05 16:00:00.580880,Bangalore,2,Koramangala,414
+2026-03-05 16:00:00.580880,Bangalore,3,IndiranagAr,418
+2026-03-05 16:00:00.580880,Bangalore,4,MG Road,390
+2026-03-05 17:00:00.580880,Bangalore,1,Whitefield,493
+2026-03-05 17:00:00.580880,Bangalore,2,Koramangala,513
+2026-03-05 17:00:00.580880,Bangalore,3,IndiranagAr,520
+2026-03-05 17:00:00.580880,Bangalore,4,MG Road,487
+2026-03-05 18:00:00.580880,Bangalore,4,MG Road,473
+2026-03-05 18:00:00.580880,Bangalore,3,IndiranagAr,492
+2026-03-05 18:00:00.580880,Bangalore,2,Koramangala,486
+2026-03-05 18:00:00.580880,Bangalore,1,Whitefield,466
+2026-03-05 19:00:00.580880,Bangalore,1,Whitefield,339
+2026-03-05 19:00:00.580880,Bangalore,2,Koramangala,351
+2026-03-05 19:00:00.580880,Bangalore,3,IndiranagAr,346
+2026-03-05 19:00:00.580880,Bangalore,4,MG Road,366
+2026-03-05 20:00:00.580880,Bangalore,4,MG Road,293
+2026-03-05 20:00:00.580880,Bangalore,1,Whitefield,291
+2026-03-05 20:00:00.580880,Bangalore,2,Koramangala,295
+2026-03-05 20:00:00.580880,Bangalore,3,IndiranagAr,294
+2026-03-05 21:00:00.580880,Bangalore,3,IndiranagAr,180
+2026-03-05 21:00:00.580880,Bangalore,4,MG Road,182
+2026-03-05 21:00:00.580880,Bangalore,1,Whitefield,183
+2026-03-05 21:00:00.580880,Bangalore,2,Koramangala,191
+2026-03-05 22:00:00.580880,Bangalore,3,IndiranagAr,111
+2026-03-05 22:00:00.580880,Bangalore,4,MG Road,112
+2026-03-05 22:00:00.580880,Bangalore,1,Whitefield,104
+2026-03-05 22:00:00.580880,Bangalore,2,Koramangala,116
+2026-03-05 23:00:00.580880,Bangalore,3,IndiranagAr,41
+2026-03-05 23:00:00.580880,Bangalore,4,MG Road,52
+2026-03-05 23:00:00.580880,Bangalore,1,Whitefield,65
+2026-03-05 23:00:00.580880,Bangalore,2,Koramangala,57
+2026-03-06 00:00:00.580880,Bangalore,1,Whitefield,40
+2026-03-06 00:00:00.580880,Bangalore,2,Koramangala,23
+2026-03-06 00:00:00.580880,Bangalore,3,IndiranagAr,18
+2026-03-06 00:00:00.580880,Bangalore,4,MG Road,41
+2026-03-06 01:00:00.580880,Bangalore,1,Whitefield,18
+2026-03-06 01:00:00.580880,Bangalore,2,Koramangala,27
+2026-03-06 01:00:00.580880,Bangalore,3,IndiranagAr,10
+2026-03-06 01:00:00.580880,Bangalore,4,MG Road,40
+2026-03-06 02:00:00.580880,Bangalore,4,MG Road,22
+2026-03-06 02:00:00.580880,Bangalore,3,IndiranagAr,42
+2026-03-06 02:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-06 02:00:00.580880,Bangalore,2,Koramangala,15
+2026-03-06 03:00:00.580880,Bangalore,1,Whitefield,28
+2026-03-06 03:00:00.580880,Bangalore,2,Koramangala,12
+2026-03-06 03:00:00.580880,Bangalore,3,IndiranagAr,17
+2026-03-06 03:00:00.580880,Bangalore,4,MG Road,10
+2026-03-06 04:00:00.580880,Bangalore,4,MG Road,13
+2026-03-06 04:00:00.580880,Bangalore,1,Whitefield,43
+2026-03-06 04:00:00.580880,Bangalore,2,Koramangala,12
+2026-03-06 04:00:00.580880,Bangalore,3,IndiranagAr,10
+2026-03-06 05:00:00.580880,Bangalore,4,MG Road,44
+2026-03-06 05:00:00.580880,Bangalore,3,IndiranagAr,51
+2026-03-06 05:00:00.580880,Bangalore,1,Whitefield,27
+2026-03-06 05:00:00.580880,Bangalore,2,Koramangala,29
+2026-03-06 06:00:00.580880,Bangalore,1,Whitefield,92
+2026-03-06 06:00:00.580880,Bangalore,2,Koramangala,60
+2026-03-06 06:00:00.580880,Bangalore,3,IndiranagAr,71
+2026-03-06 06:00:00.580880,Bangalore,4,MG Road,61
+2026-03-06 07:00:00.580880,Bangalore,4,MG Road,305
+2026-03-06 07:00:00.580880,Bangalore,1,Whitefield,281
+2026-03-06 07:00:00.580880,Bangalore,2,Koramangala,318
+2026-03-06 07:00:00.580880,Bangalore,3,IndiranagAr,298
+2026-03-06 08:00:00.580880,Bangalore,4,MG Road,438
+2026-03-06 08:00:00.580880,Bangalore,3,IndiranagAr,421
+2026-03-06 08:00:00.580880,Bangalore,2,Koramangala,425
+2026-03-06 08:00:00.580880,Bangalore,1,Whitefield,403
+2026-03-06 09:00:00.580880,Bangalore,4,MG Road,365
+2026-03-06 09:00:00.580880,Bangalore,1,Whitefield,398
+2026-03-06 09:00:00.580880,Bangalore,2,Koramangala,362
+2026-03-06 09:00:00.580880,Bangalore,3,IndiranagAr,393
+2026-03-06 10:00:00.580880,Bangalore,3,IndiranagAr,288
+2026-03-06 10:00:00.580880,Bangalore,4,MG Road,271
+2026-03-06 10:00:00.580880,Bangalore,1,Whitefield,265
+2026-03-06 10:00:00.580880,Bangalore,2,Koramangala,295
+2026-03-06 11:00:00.580880,Bangalore,4,MG Road,321
+2026-03-06 11:00:00.580880,Bangalore,3,IndiranagAr,316
+2026-03-06 11:00:00.580880,Bangalore,2,Koramangala,293
+2026-03-06 11:00:00.580880,Bangalore,1,Whitefield,322
+2026-03-06 12:00:00.580880,Bangalore,1,Whitefield,335
+2026-03-06 12:00:00.580880,Bangalore,2,Koramangala,332
+2026-03-06 12:00:00.580880,Bangalore,3,IndiranagAr,357
+2026-03-06 12:00:00.580880,Bangalore,4,MG Road,320
+2026-03-06 13:00:00.580880,Bangalore,1,Whitefield,339
+2026-03-06 13:00:00.580880,Bangalore,2,Koramangala,337
+2026-03-06 13:00:00.580880,Bangalore,3,IndiranagAr,314
+2026-03-06 13:00:00.580880,Bangalore,4,MG Road,331
+2026-03-06 14:00:00.580880,Bangalore,4,MG Road,297
+2026-03-06 14:00:00.580880,Bangalore,3,IndiranagAr,302
+2026-03-06 14:00:00.580880,Bangalore,2,Koramangala,291
+2026-03-06 14:00:00.580880,Bangalore,1,Whitefield,314
+2026-03-06 15:00:00.580880,Bangalore,1,Whitefield,320
+2026-03-06 15:00:00.580880,Bangalore,2,Koramangala,332
+2026-03-06 15:00:00.580880,Bangalore,3,IndiranagAr,334
+2026-03-06 15:00:00.580880,Bangalore,4,MG Road,314
+2026-03-06 16:00:00.580880,Bangalore,1,Whitefield,396
+2026-03-06 16:00:00.580880,Bangalore,2,Koramangala,400
+2026-03-06 16:00:00.580880,Bangalore,3,IndiranagAr,418
+2026-03-06 16:00:00.580880,Bangalore,4,MG Road,395
+2026-03-06 17:00:00.580880,Bangalore,4,MG Road,485
+2026-03-06 17:00:00.580880,Bangalore,3,IndiranagAr,490
+2026-03-06 17:00:00.580880,Bangalore,2,Koramangala,497
+2026-03-06 17:00:00.580880,Bangalore,1,Whitefield,503
+2026-03-06 18:00:00.580880,Bangalore,1,Whitefield,493
+2026-03-06 18:00:00.580880,Bangalore,2,Koramangala,500
+2026-03-06 18:00:00.580880,Bangalore,3,IndiranagAr,465
+2026-03-06 18:00:00.580880,Bangalore,4,MG Road,463
+2026-03-06 19:00:00.580880,Bangalore,4,MG Road,365
+2026-03-06 19:00:00.580880,Bangalore,1,Whitefield,351
+2026-03-06 19:00:00.580880,Bangalore,2,Koramangala,353
+2026-03-06 19:00:00.580880,Bangalore,3,IndiranagAr,334
+2026-03-06 20:00:00.580880,Bangalore,1,Whitefield,300
+2026-03-06 20:00:00.580880,Bangalore,2,Koramangala,266
+2026-03-06 20:00:00.580880,Bangalore,3,IndiranagAr,300
+2026-03-06 20:00:00.580880,Bangalore,4,MG Road,284
+2026-03-06 21:00:00.580880,Bangalore,3,IndiranagAr,187
+2026-03-06 21:00:00.580880,Bangalore,4,MG Road,206
+2026-03-06 21:00:00.580880,Bangalore,1,Whitefield,196
+2026-03-06 21:00:00.580880,Bangalore,2,Koramangala,216
+2026-03-06 22:00:00.580880,Bangalore,3,IndiranagAr,114
+2026-03-06 22:00:00.580880,Bangalore,4,MG Road,129
+2026-03-06 22:00:00.580880,Bangalore,1,Whitefield,104
+2026-03-06 22:00:00.580880,Bangalore,2,Koramangala,115
+2026-03-06 23:00:00.580880,Bangalore,4,MG Road,55
+2026-03-06 23:00:00.580880,Bangalore,3,IndiranagAr,71
+2026-03-06 23:00:00.580880,Bangalore,2,Koramangala,50
+2026-03-06 23:00:00.580880,Bangalore,1,Whitefield,70
+2026-03-07 00:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-07 00:00:00.580880,Bangalore,2,Koramangala,10
+2026-03-07 00:00:00.580880,Bangalore,3,IndiranagAr,38
+2026-03-07 00:00:00.580880,Bangalore,4,MG Road,26
+2026-03-07 01:00:00.580880,Bangalore,1,Whitefield,26
+2026-03-07 01:00:00.580880,Bangalore,2,Koramangala,19
+2026-03-07 01:00:00.580880,Bangalore,3,IndiranagAr,10
+2026-03-07 01:00:00.580880,Bangalore,4,MG Road,22
+2026-03-07 02:00:00.580880,Bangalore,4,MG Road,26
+2026-03-07 02:00:00.580880,Bangalore,3,IndiranagAr,10
+2026-03-07 02:00:00.580880,Bangalore,2,Koramangala,10
+2026-03-07 02:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-07 03:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-07 03:00:00.580880,Bangalore,2,Koramangala,16
+2026-03-07 03:00:00.580880,Bangalore,3,IndiranagAr,15
+2026-03-07 03:00:00.580880,Bangalore,4,MG Road,10
+2026-03-07 04:00:00.580880,Bangalore,1,Whitefield,18
+2026-03-07 04:00:00.580880,Bangalore,2,Koramangala,10
+2026-03-07 04:00:00.580880,Bangalore,3,IndiranagAr,10
+2026-03-07 04:00:00.580880,Bangalore,4,MG Road,23
+2026-03-07 05:00:00.580880,Bangalore,4,MG Road,34
+2026-03-07 05:00:00.580880,Bangalore,3,IndiranagAr,23
+2026-03-07 05:00:00.580880,Bangalore,2,Koramangala,31
+2026-03-07 05:00:00.580880,Bangalore,1,Whitefield,37
+2026-03-07 06:00:00.580880,Bangalore,1,Whitefield,67
+2026-03-07 06:00:00.580880,Bangalore,2,Koramangala,68
+2026-03-07 06:00:00.580880,Bangalore,3,IndiranagAr,73
+2026-03-07 06:00:00.580880,Bangalore,4,MG Road,73
+2026-03-07 07:00:00.580880,Bangalore,1,Whitefield,219
+2026-03-07 07:00:00.580880,Bangalore,2,Koramangala,200
+2026-03-07 07:00:00.580880,Bangalore,3,IndiranagAr,191
+2026-03-07 07:00:00.580880,Bangalore,4,MG Road,215
+2026-03-07 08:00:00.580880,Bangalore,4,MG Road,313
+2026-03-07 08:00:00.580880,Bangalore,3,IndiranagAr,283
+2026-03-07 08:00:00.580880,Bangalore,1,Whitefield,305
+2026-03-07 08:00:00.580880,Bangalore,2,Koramangala,278
+2026-03-07 09:00:00.580880,Bangalore,1,Whitefield,283
+2026-03-07 09:00:00.580880,Bangalore,2,Koramangala,279
+2026-03-07 09:00:00.580880,Bangalore,3,IndiranagAr,249
+2026-03-07 09:00:00.580880,Bangalore,4,MG Road,281
+2026-03-07 10:00:00.580880,Bangalore,1,Whitefield,179
+2026-03-07 10:00:00.580880,Bangalore,2,Koramangala,200
+2026-03-07 10:00:00.580880,Bangalore,3,IndiranagAr,191
+2026-03-07 10:00:00.580880,Bangalore,4,MG Road,201
+2026-03-07 11:00:00.580880,Bangalore,4,MG Road,200
+2026-03-07 11:00:00.580880,Bangalore,3,IndiranagAr,197
+2026-03-07 11:00:00.580880,Bangalore,2,Koramangala,222
+2026-03-07 11:00:00.580880,Bangalore,1,Whitefield,216
+2026-03-07 12:00:00.580880,Bangalore,1,Whitefield,231
+2026-03-07 12:00:00.580880,Bangalore,2,Koramangala,225
+2026-03-07 12:00:00.580880,Bangalore,3,IndiranagAr,237
+2026-03-07 12:00:00.580880,Bangalore,4,MG Road,234
+2026-03-07 13:00:00.580880,Bangalore,1,Whitefield,205
+2026-03-07 13:00:00.580880,Bangalore,2,Koramangala,227
+2026-03-07 13:00:00.580880,Bangalore,3,IndiranagAr,228
+2026-03-07 13:00:00.580880,Bangalore,4,MG Road,233
+2026-03-07 14:00:00.580880,Bangalore,4,MG Road,207
+2026-03-07 14:00:00.580880,Bangalore,3,IndiranagAr,197
+2026-03-07 14:00:00.580880,Bangalore,1,Whitefield,215
+2026-03-07 14:00:00.580880,Bangalore,2,Koramangala,203
+2026-03-07 15:00:00.580880,Bangalore,1,Whitefield,221
+2026-03-07 15:00:00.580880,Bangalore,2,Koramangala,228
+2026-03-07 15:00:00.580880,Bangalore,3,IndiranagAr,237
+2026-03-07 15:00:00.580880,Bangalore,4,MG Road,235
+2026-03-07 16:00:00.580880,Bangalore,1,Whitefield,264
+2026-03-07 16:00:00.580880,Bangalore,2,Koramangala,291
+2026-03-07 16:00:00.580880,Bangalore,3,IndiranagAr,299
+2026-03-07 16:00:00.580880,Bangalore,4,MG Road,295
+2026-03-07 17:00:00.580880,Bangalore,4,MG Road,364
+2026-03-07 17:00:00.580880,Bangalore,3,IndiranagAr,341
+2026-03-07 17:00:00.580880,Bangalore,2,Koramangala,347
+2026-03-07 17:00:00.580880,Bangalore,1,Whitefield,354
+2026-03-07 18:00:00.580880,Bangalore,1,Whitefield,328
+2026-03-07 18:00:00.580880,Bangalore,2,Koramangala,355
+2026-03-07 18:00:00.580880,Bangalore,3,IndiranagAr,343
+2026-03-07 18:00:00.580880,Bangalore,4,MG Road,352
+2026-03-07 19:00:00.580880,Bangalore,1,Whitefield,247
+2026-03-07 19:00:00.580880,Bangalore,2,Koramangala,240
+2026-03-07 19:00:00.580880,Bangalore,3,IndiranagAr,232
+2026-03-07 19:00:00.580880,Bangalore,4,MG Road,240
+2026-03-07 20:00:00.580880,Bangalore,4,MG Road,199
+2026-03-07 20:00:00.580880,Bangalore,3,IndiranagAr,185
+2026-03-07 20:00:00.580880,Bangalore,2,Koramangala,178
+2026-03-07 20:00:00.580880,Bangalore,1,Whitefield,188
+2026-03-07 21:00:00.580880,Bangalore,1,Whitefield,129
+2026-03-07 21:00:00.580880,Bangalore,2,Koramangala,152
+2026-03-07 21:00:00.580880,Bangalore,3,IndiranagAr,158
+2026-03-07 21:00:00.580880,Bangalore,4,MG Road,143
+2026-03-07 22:00:00.580880,Bangalore,1,Whitefield,80
+2026-03-07 22:00:00.580880,Bangalore,2,Koramangala,89
+2026-03-07 22:00:00.580880,Bangalore,3,IndiranagAr,72
+2026-03-07 22:00:00.580880,Bangalore,4,MG Road,78
+2026-03-07 23:00:00.580880,Bangalore,4,MG Road,25
+2026-03-07 23:00:00.580880,Bangalore,3,IndiranagAr,49
+2026-03-07 23:00:00.580880,Bangalore,1,Whitefield,42
+2026-03-07 23:00:00.580880,Bangalore,2,Koramangala,41
+2026-03-08 00:00:00.580880,Bangalore,1,Whitefield,36
+2026-03-08 00:00:00.580880,Bangalore,2,Koramangala,17
+2026-03-08 00:00:00.580880,Bangalore,3,IndiranagAr,25
+2026-03-08 00:00:00.580880,Bangalore,4,MG Road,10
+2026-03-08 01:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-08 01:00:00.580880,Bangalore,2,Koramangala,14
+2026-03-08 01:00:00.580880,Bangalore,3,IndiranagAr,33
+2026-03-08 01:00:00.580880,Bangalore,4,MG Road,16
+2026-03-08 02:00:00.580880,Bangalore,4,MG Road,10
+2026-03-08 02:00:00.580880,Bangalore,3,IndiranagAr,25
+2026-03-08 02:00:00.580880,Bangalore,1,Whitefield,34
+2026-03-08 02:00:00.580880,Bangalore,2,Koramangala,10
+2026-03-08 03:00:00.580880,Bangalore,1,Whitefield,22
+2026-03-08 03:00:00.580880,Bangalore,2,Koramangala,10
+2026-03-08 03:00:00.580880,Bangalore,3,IndiranagAr,30
+2026-03-08 03:00:00.580880,Bangalore,4,MG Road,22
+2026-03-08 04:00:00.580880,Bangalore,4,MG Road,20
+2026-03-08 04:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-08 04:00:00.580880,Bangalore,2,Koramangala,32
+2026-03-08 04:00:00.580880,Bangalore,3,IndiranagAr,10
+2026-03-08 05:00:00.580880,Bangalore,4,MG Road,31
+2026-03-08 05:00:00.580880,Bangalore,3,IndiranagAr,45
+2026-03-08 05:00:00.580880,Bangalore,1,Whitefield,20
+2026-03-08 05:00:00.580880,Bangalore,2,Koramangala,13
+2026-03-08 06:00:00.580880,Bangalore,1,Whitefield,64
+2026-03-08 06:00:00.580880,Bangalore,2,Koramangala,70
+2026-03-08 06:00:00.580880,Bangalore,3,IndiranagAr,48
+2026-03-08 06:00:00.580880,Bangalore,4,MG Road,68
+2026-03-08 07:00:00.580880,Bangalore,4,MG Road,197
+2026-03-08 07:00:00.580880,Bangalore,1,Whitefield,223
+2026-03-08 07:00:00.580880,Bangalore,2,Koramangala,219
+2026-03-08 07:00:00.580880,Bangalore,3,IndiranagAr,223
+2026-03-08 08:00:00.580880,Bangalore,4,MG Road,298
+2026-03-08 08:00:00.580880,Bangalore,3,IndiranagAr,307
+2026-03-08 08:00:00.580880,Bangalore,2,Koramangala,313
+2026-03-08 08:00:00.580880,Bangalore,1,Whitefield,293
+2026-03-08 09:00:00.580880,Bangalore,4,MG Road,248
+2026-03-08 09:00:00.580880,Bangalore,1,Whitefield,246
+2026-03-08 09:00:00.580880,Bangalore,2,Koramangala,271
+2026-03-08 09:00:00.580880,Bangalore,3,IndiranagAr,258
+2026-03-08 10:00:00.580880,Bangalore,3,IndiranagAr,195
+2026-03-08 10:00:00.580880,Bangalore,4,MG Road,191
+2026-03-08 10:00:00.580880,Bangalore,1,Whitefield,185
+2026-03-08 10:00:00.580880,Bangalore,2,Koramangala,208
+2026-03-08 11:00:00.580880,Bangalore,4,MG Road,210
+2026-03-08 11:00:00.580880,Bangalore,3,IndiranagAr,201
+2026-03-08 11:00:00.580880,Bangalore,2,Koramangala,237
+2026-03-08 11:00:00.580880,Bangalore,1,Whitefield,234
+2026-03-08 12:00:00.580880,Bangalore,1,Whitefield,224
+2026-03-08 12:00:00.580880,Bangalore,2,Koramangala,239
+2026-03-08 12:00:00.580880,Bangalore,3,IndiranagAr,234
+2026-03-08 12:00:00.580880,Bangalore,4,MG Road,226
+2026-03-08 13:00:00.580880,Bangalore,1,Whitefield,216
+2026-03-08 13:00:00.580880,Bangalore,2,Koramangala,212
+2026-03-08 13:00:00.580880,Bangalore,3,IndiranagAr,241
+2026-03-08 13:00:00.580880,Bangalore,4,MG Road,215
+2026-03-08 14:00:00.580880,Bangalore,4,MG Road,206
+2026-03-08 14:00:00.580880,Bangalore,3,IndiranagAr,215
+2026-03-08 14:00:00.580880,Bangalore,2,Koramangala,229
+2026-03-08 14:00:00.580880,Bangalore,1,Whitefield,220
+2026-03-08 15:00:00.580880,Bangalore,1,Whitefield,226
+2026-03-08 15:00:00.580880,Bangalore,2,Koramangala,238
+2026-03-08 15:00:00.580880,Bangalore,3,IndiranagAr,213
+2026-03-08 15:00:00.580880,Bangalore,4,MG Road,241
+2026-03-08 16:00:00.580880,Bangalore,1,Whitefield,285
+2026-03-08 16:00:00.580880,Bangalore,2,Koramangala,288
+2026-03-08 16:00:00.580880,Bangalore,3,IndiranagAr,271
+2026-03-08 16:00:00.580880,Bangalore,4,MG Road,286
+2026-03-08 17:00:00.580880,Bangalore,4,MG Road,360
+2026-03-08 17:00:00.580880,Bangalore,3,IndiranagAr,340
+2026-03-08 17:00:00.580880,Bangalore,2,Koramangala,355
+2026-03-08 17:00:00.580880,Bangalore,1,Whitefield,368
+2026-03-08 18:00:00.580880,Bangalore,1,Whitefield,347
+2026-03-08 18:00:00.580880,Bangalore,2,Koramangala,345
+2026-03-08 18:00:00.580880,Bangalore,3,IndiranagAr,332
+2026-03-08 18:00:00.580880,Bangalore,4,MG Road,346
+2026-03-08 19:00:00.580880,Bangalore,1,Whitefield,243
+2026-03-08 19:00:00.580880,Bangalore,2,Koramangala,242
+2026-03-08 19:00:00.580880,Bangalore,3,IndiranagAr,244
+2026-03-08 19:00:00.580880,Bangalore,4,MG Road,233
+2026-03-08 20:00:00.580880,Bangalore,4,MG Road,195
+2026-03-08 20:00:00.580880,Bangalore,3,IndiranagAr,176
+2026-03-08 20:00:00.580880,Bangalore,2,Koramangala,215
+2026-03-08 20:00:00.580880,Bangalore,1,Whitefield,196
+2026-03-08 21:00:00.580880,Bangalore,1,Whitefield,131
+2026-03-08 21:00:00.580880,Bangalore,2,Koramangala,160
+2026-03-08 21:00:00.580880,Bangalore,3,IndiranagAr,152
+2026-03-08 21:00:00.580880,Bangalore,4,MG Road,154
+2026-03-08 22:00:00.580880,Bangalore,1,Whitefield,73
+2026-03-08 22:00:00.580880,Bangalore,2,Koramangala,88
+2026-03-08 22:00:00.580880,Bangalore,3,IndiranagAr,92
+2026-03-08 22:00:00.580880,Bangalore,4,MG Road,83
+2026-03-08 23:00:00.580880,Bangalore,4,MG Road,42
+2026-03-08 23:00:00.580880,Bangalore,3,IndiranagAr,59
+2026-03-08 23:00:00.580880,Bangalore,1,Whitefield,46
+2026-03-08 23:00:00.580880,Bangalore,2,Koramangala,26
+2026-03-09 00:00:00.580880,Bangalore,1,Whitefield,49
+2026-03-09 00:00:00.580880,Bangalore,2,Koramangala,40
+2026-03-09 00:00:00.580880,Bangalore,3,IndiranagAr,54
+2026-03-09 00:00:00.580880,Bangalore,4,MG Road,38
+2026-03-09 01:00:00.580880,Bangalore,1,Whitefield,41
+2026-03-09 01:00:00.580880,Bangalore,2,Koramangala,22
+2026-03-09 01:00:00.580880,Bangalore,3,IndiranagAr,41
+2026-03-09 01:00:00.580880,Bangalore,4,MG Road,21
+2026-03-09 02:00:00.580880,Bangalore,4,MG Road,10
+2026-03-09 02:00:00.580880,Bangalore,3,IndiranagAr,14
+2026-03-09 02:00:00.580880,Bangalore,1,Whitefield,10
+2026-03-09 02:00:00.580880,Bangalore,2,Koramangala,36
+2026-03-09 03:00:00.580880,Bangalore,1,Whitefield,28
+2026-03-09 03:00:00.580880,Bangalore,2,Koramangala,10
+2026-03-09 03:00:00.580880,Bangalore,3,IndiranagAr,32
+2026-03-09 03:00:00.580880,Bangalore,4,MG Road,35
+2026-03-09 04:00:00.580880,Bangalore,4,MG Road,45
+2026-03-09 04:00:00.580880,Bangalore,1,Whitefield,13
+2026-03-09 04:00:00.580880,Bangalore,2,Koramangala,18
+2026-03-09 04:00:00.580880,Bangalore,3,IndiranagAr,10
+2026-03-09 05:00:00.580880,Bangalore,4,MG Road,39
+2026-03-09 05:00:00.580880,Bangalore,3,IndiranagAr,46
+2026-03-09 05:00:00.580880,Bangalore,2,Koramangala,46
+2026-03-09 05:00:00.580880,Bangalore,1,Whitefield,24
+2026-03-09 06:00:00.580880,Bangalore,1,Whitefield,86
+2026-03-09 06:00:00.580880,Bangalore,2,Koramangala,99
+2026-03-09 06:00:00.580880,Bangalore,3,IndiranagAr,75
+2026-03-09 06:00:00.580880,Bangalore,4,MG Road,66
+2026-03-09 07:00:00.580880,Bangalore,1,Whitefield,302
+2026-03-09 07:00:00.580880,Bangalore,2,Koramangala,317
+2026-03-09 07:00:00.580880,Bangalore,3,IndiranagAr,281
+2026-03-09 07:00:00.580880,Bangalore,4,MG Road,319
+2026-03-09 08:00:00.580880,Bangalore,4,MG Road,413
+2026-03-09 08:00:00.580880,Bangalore,3,IndiranagAr,431
+2026-03-09 08:00:00.580880,Bangalore,2,Koramangala,409
+2026-03-09 08:00:00.580880,Bangalore,1,Whitefield,423
+2026-03-09 09:00:00.580880,Bangalore,1,Whitefield,393
+2026-03-09 09:00:00.580880,Bangalore,2,Koramangala,366
+2026-03-09 09:00:00.580880,Bangalore,3,IndiranagAr,395
+2026-03-09 09:00:00.580880,Bangalore,4,MG Road,372
+2026-03-09 10:00:00.580880,Bangalore,1,Whitefield,270
+2026-03-09 10:00:00.580880,Bangalore,2,Koramangala,300
+2026-03-09 10:00:00.580880,Bangalore,3,IndiranagAr,283
+2026-03-09 10:00:00.580880,Bangalore,4,MG Road,276
+2026-03-09 11:00:00.580880,Bangalore,4,MG Road,302
+2026-03-09 11:00:00.580880,Bangalore,3,IndiranagAr,328
+2026-03-09 11:00:00.580880,Bangalore,1,Whitefield,330
+2026-03-09 11:00:00.580880,Bangalore,2,Koramangala,300
+2026-03-09 12:00:00.580880,Bangalore,1,Whitefield,359
+2026-03-09 12:00:00.580880,Bangalore,2,Koramangala,320
+2026-03-09 12:00:00.580880,Bangalore,3,IndiranagAr,352
+2026-03-09 12:00:00.580880,Bangalore,4,MG Road,329
+2026-03-09 13:00:00.580880,Bangalore,1,Whitefield,307
+2026-03-09 13:00:00.580880,Bangalore,2,Koramangala,339
+2026-03-09 13:00:00.580880,Bangalore,3,IndiranagAr,336
+2026-03-09 13:00:00.580880,Bangalore,4,MG Road,306
+2026-03-09 14:00:00.580880,Bangalore,4,MG Road,320
+2026-03-09 14:00:00.580880,Bangalore,3,IndiranagAr,293
+2026-03-09 14:00:00.580880,Bangalore,1,Whitefield,298
+2026-03-09 14:00:00.580880,Bangalore,2,Koramangala,302
+2026-03-09 15:00:00.580880,Bangalore,1,Whitefield,346
+2026-03-09 15:00:00.580880,Bangalore,2,Koramangala,346
+2026-03-09 15:00:00.580880,Bangalore,3,IndiranagAr,330
+2026-03-09 15:00:00.580880,Bangalore,4,MG Road,327
+2026-03-09 16:00:00.580880,Bangalore,1,Whitefield,383
+2026-03-09 16:00:00.580880,Bangalore,2,Koramangala,392
+2026-03-09 16:00:00.580880,Bangalore,3,IndiranagAr,390
+2026-03-09 16:00:00.580880,Bangalore,4,MG Road,396
+2026-03-09 17:00:00.580880,Bangalore,4,MG Road,501
+2026-03-09 17:00:00.580880,Bangalore,3,IndiranagAr,482
+2026-03-09 17:00:00.580880,Bangalore,1,Whitefield,482
+2026-03-09 17:00:00.580880,Bangalore,2,Koramangala,505
+2026-03-09 18:00:00.580880,Bangalore,1,Whitefield,494
+2026-03-09 18:00:00.580880,Bangalore,2,Koramangala,471
+2026-03-09 18:00:00.580880,Bangalore,3,IndiranagAr,490
+2026-03-09 18:00:00.580880,Bangalore,4,MG Road,468
+2026-03-09 19:00:00.580880,Bangalore,1,Whitefield,349
+2026-03-09 19:00:00.580880,Bangalore,2,Koramangala,344
+2026-03-09 19:00:00.580880,Bangalore,3,IndiranagAr,362
+2026-03-09 19:00:00.580880,Bangalore,4,MG Road,364
+2026-03-09 20:00:00.580880,Bangalore,4,MG Road,285
+2026-03-09 20:00:00.580880,Bangalore,3,IndiranagAr,289
+2026-03-09 20:00:00.580880,Bangalore,1,Whitefield,290
+2026-03-09 20:00:00.580880,Bangalore,2,Koramangala,262
+2026-03-09 21:00:00.580880,Bangalore,1,Whitefield,207
+2026-03-09 21:00:00.580880,Bangalore,2,Koramangala,185
+2026-03-09 21:00:00.580880,Bangalore,3,IndiranagAr,196
+2026-03-09 21:00:00.580880,Bangalore,4,MG Road,219
+2026-03-09 22:00:00.580880,Bangalore,1,Whitefield,131
+2026-03-09 22:00:00.580880,Bangalore,2,Koramangala,102
+2026-03-09 22:00:00.580880,Bangalore,3,IndiranagAr,117
+2026-03-09 22:00:00.580880,Bangalore,4,MG Road,104
+2026-03-09 23:00:00.580880,Bangalore,3,IndiranagAr,48
+2026-03-09 23:00:00.580880,Bangalore,1,Whitefield,75
+2026-03-09 23:00:00.580880,Bangalore,2,Koramangala,46
+2026-03-09 23:00:00.580880,Bangalore,4,MG Road,57
