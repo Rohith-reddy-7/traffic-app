@@ -362,7 +362,7 @@ def main():
                 markers=True,
                 title=f"Traffic Pattern - {selected_city}",
                 labels={"Vehicles": "Vehicle Count", "Hour": "Time of Day"},
-                color_discrete_sequences=["#1f77b4"]
+                color_discrete_sequence=["#1f77b4"]
             )
             fig.update_layout(hovermode="x unified", height=400)
             st.plotly_chart(fig, use_container_width=True)
